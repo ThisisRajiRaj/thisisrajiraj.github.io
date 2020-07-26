@@ -1,0 +1,116 @@
+ [
+    {
+        "date": "September 6, 2018",
+        "name": "trainyourfear",
+        "title": "How to Train Your Fear"
+    },
+    {
+        "date": "September 11, 2018",
+        "name": "afloat",
+        "title": "Afloat on a Full Sea"
+    },
+    {
+        "date": "February 18, 2019",
+        "name": "death",
+        "title": "From Where No Traveler Returns"
+    },
+    {
+        "date": "April 9, 2019",
+        "name": "optimism",
+        "title": "Take Optimism to Work"
+    },
+    {
+        "date": "June 10, 2019",
+        "name": "armytools",
+        "title": "Tools I Learned from the Army"
+    },
+    {
+        "date": "June 2, 2019",
+        "name": "grandma",
+        "title": "Goodbye, Grandma"
+    },
+    {
+        "date": "October 5, 2019",
+        "name": "growingpains",
+        "title": "Growing Pains"
+    },
+    {
+        "date": "January 14, 2020",
+        "name": "declutter",
+        "title": "A Ritual to De-Clutter your Life"
+    },
+    {
+        "date": "January 18, 2020",
+        "name": "uncollaborative",
+        "title": "Dealing with 'Difficult people'"
+    },
+    {
+        "date": "February 15, 2020",
+        "name": "mentoringrecap",
+        "title": "Mentoring Recap"
+    },
+    {
+        "date": "January 1, 2020",
+        "name": "sixthextinction",
+        "title": "Book Review: The Sixth Extinction"
+    },
+    {
+        "date": "March 2, 2020",
+        "name": "mothersday",
+        "title": "My mother and other women"
+    },
+    {
+        "date": "July 9, 2020",
+        "name": "decisions-decisions-decisions",
+        "title": "3 Tips to Make Great Decisions",
+        "image": "images/greatdecisions.jpg"
+    },    
+    {
+        "date": "April 1, 2020",
+        "name": "ongrandstrategy",
+        "title": "Book Review: On Grand Strategy",
+        "image": "images/ongrandstrategy.jpg"
+    },
+    {
+        "date": "June 16, 2019",
+        "name": "LessonsFromDad",
+        "title": "3 Lessons From My Dad",
+        "image": "images/dad.jpg"
+    },
+    {
+        "date": "August 7, 2017",
+        "name": "HauteRoute",
+        "title": "Life Lessons From the Haute Route",
+        "image": "images/hauteroute.jpg"
+    },
+    {
+        "date": "September 29, 2017",
+        "name": "LetGo",
+        "title": "It may be time to let go...",
+        "image": "images/letgo.jpg"
+    },
+    {
+        "date": "January 18, 2018",
+        "name": "HappinessJournal",
+        "title": "What's on your ''happiness list''?",
+        "image": "images/journal.jpg"
+    },
+    {
+        "date": "January 20, 2018",
+        "name": "WhyYouShouldGetOnTheBalcony",
+        "title": "Why You Should Get On The Balcony",
+        "image": "images/OnTheBalcony.jpg"
+    },
+    {
+        "date": "March 7, 2018",
+        "name": "SucceedingAsAWomanInTech",
+        "title": "Succeeding as a woman in tech",
+        "image": "images/SucceedingAsAWomanInTech-header.jpg"
+    },
+    {
+        "date": "March 31, 2018",
+        "name": "InSearchOfLostDreams",
+        "title": "In Search of Lost Dreams",
+        "image": "images/InSearchOfLostDreams-header.jpg"
+    }
+ ]
