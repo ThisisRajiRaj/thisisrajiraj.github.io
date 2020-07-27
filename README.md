@@ -1,5 +1,9 @@
-## Welcome to GitHub Pages
+# Welcome to my blog pages
+These pages were created using Github pages and used to host my static
+blog files to be served on my [personal website](https://www.rajiraj.com). 
+My site was created using ReacJS.
 
+# Markdown used in the MD files on these pages
 You can use the [editor on GitHub](https://github.com/ThisisRajiRaj/blog.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
