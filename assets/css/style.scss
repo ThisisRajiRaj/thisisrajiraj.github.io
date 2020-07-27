@@ -7,7 +7,7 @@
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
-  background-image: "{{ site.url }}/posts/images/France.jpg"
+  background-image: "{{ site.url }}/posts/images/France.jpg";
 
   @include large {
     padding: 5rem 6rem;
