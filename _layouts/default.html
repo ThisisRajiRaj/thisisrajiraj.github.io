@@ -21,7 +21,10 @@
   </head>
   <body>
 
-    <header class="page-header" role="banner" style="background-color:white;height:50vh"></header>
+    <header class="page-header" role="banner" style="background-color:white;height:50vh">
+       <img src="{{ page.image | default: site.logo }}" alt="{{ page.title | default: site.title | default: site.github.repository_name }}" class="project-name" />
+       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+    </header>
 
     <main id="content" class="main-content" role="main">
       {{ content }}
