@@ -1,4 +1,3 @@
-
 ---
 layout:       post
 title:        Upskilling yourself through learning sprints
