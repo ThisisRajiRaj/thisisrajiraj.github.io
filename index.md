@@ -1,10 +1,3 @@
----
-title: Upskilling yourself through learning sprints
-tagline: Raji Rajagopalan's personal blog and website
-url: https://www.rajiraj.com/blog/personallearning
-author: @thisisrajiraj
----
-
 # Welcome to my blog!
 
 I love to write for myself, but 
@@ -18,6 +11,11 @@ to read. My blog is a collection of my personal experience, my advice on various
  my recommendations, and more.
 
 ## Visit my [website](https://www.rajiraj.com/blog) to read my writing. 
+
+{% for post in site.posts %}   
+    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+    <p><small><strong>{{ post.date | date: "%B %e, %Y" }}</strong> . {{ post.category }} . <a href="http://myname.github.com{{ post.url }}#disqus_thread"></a></small></p>            
+{% endfor %}
 
 #### Thank you, and hope you enjoy what I have to share! <3
 
