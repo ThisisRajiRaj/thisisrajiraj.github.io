@@ -12,5 +12,4 @@ image:
     width: 500
     height: 500
 tagline: Raji Rajagopalan's personal blog and website
-url: https://www.rajiraj.com/blog/personallearning
 ---
