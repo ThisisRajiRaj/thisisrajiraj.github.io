@@ -6,6 +6,7 @@ lang:         en
 categories:   blog
 url:          "https://www.rajiraj.com/blog/personallearning"
 canonical_url: "https://www.rajiraj.com/blog/personallearning"
+redirect_to: https://www.rajiraj.com/blog/personallearning
 tags:
   - Coding
   - Career
