@@ -5,6 +5,7 @@ date:         2020-07-28 17:48:01 +0200
 lang:         en
 categories:   blog
 url:          "https://www.rajiraj.com/blog/personallearning"
+canonical_url: "https://www.rajiraj.com/blog/personallearning"
 tags:
   - Coding
   - Career
