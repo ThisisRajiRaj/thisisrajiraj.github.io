@@ -13,7 +13,6 @@ image:
     path: posts/images/websiteheader.jpeg
     width: 500
     height: 500
-redirect_to: https://www.rajiraj.com/blog/personallearning
 tagline: Raji Rajagopalan's personal blog and website
 ---
 Please visit my <a href="https://www.rajiraj.com/blog/personallearning">blog</a> to read this post.
