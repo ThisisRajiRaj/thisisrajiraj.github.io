@@ -14,4 +14,4 @@ image:
 tagline: Raji Rajagopalan's personal blog and website
 url: https://www.rajiraj.com/blog/personallearning
 ---
-# Hello!
+Please visit my <a href="https://www.rajiraj.com/blog/personallearning">blog</a> to read this post.
