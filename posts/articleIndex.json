@@ -1,6 +1,12 @@
  [
     {
         "date": "October 25, 2020",
+        "name": "writing",
+        "title": "Why I write (and why you should too)",
+        "image": "images/writing.jpg"
+    },
+    {
+        "date": "October 25, 2020",
         "name": "belief",
         "title": "Seek and Cherish Truth",
         "image": "images/belief.jpg"
