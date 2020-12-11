@@ -1,5 +1,10 @@
  [
-     
+    {
+        "date": "December 10, 2020",
+        "name": "yearinreview2020",
+        "title": "My year in books and pictures",
+        "image": "images/yearinreview2020.jpg"
+    },     
     {
         "date": "November 28, 2020",
         "name": "thanksgiving",
