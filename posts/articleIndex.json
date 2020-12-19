@@ -1,5 +1,11 @@
  [
     {
+        "date": "December 18, 2020",
+        "name": "hamnet",
+        "title": "Book Review: Hamnet",
+        "image": "images/hamnet.jpg"
+    },  
+    {
         "date": "December 16, 2020",
         "name": "onthemargins",
         "title": "On the margins",
