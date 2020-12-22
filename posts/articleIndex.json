@@ -1,5 +1,11 @@
  [
     {
+        "date": "December 21, 2020",
+        "name": "envy",
+        "title": "What happens when your peer advances and you don't",
+        "image": "images/envy.jpg"
+    },  
+    {
         "date": "December 18, 2020",
         "name": "hamnet",
         "title": "Book Review: Hamnet",
