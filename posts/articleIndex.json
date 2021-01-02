@@ -1,5 +1,11 @@
 [
-     
+    {
+        "date": "January 01, 2021",
+        "name": "reminders",
+        "title": "Some reminders for fulfilling work and life",
+        "image": "images/reminders.jpg"
+    }, 
+    
     {
         "date": "December 26, 2020",
         "name": "wonderwoman",
