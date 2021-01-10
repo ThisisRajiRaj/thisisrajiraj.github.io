@@ -1,5 +1,11 @@
 [
     {
+        "date": "January 10, 2021",
+        "name": "newjob",
+        "title": "First impressions in a new job",
+        "image": "images/newjob.jpg"
+    },
+    {
         "date": "January 01, 2021",
         "name": "reminders",
         "title": "Some reminders for a more fulfilling life (while doing great work)",
