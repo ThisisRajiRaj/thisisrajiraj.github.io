@@ -145,7 +145,7 @@ Here's a "line block":
 | Line tree
 
 and images can be specified like so:
-![example image](https://octodex.github.com/images/yaktocat.png =100x20)
+![example image](https://octodex.github.com/images/yaktocat.png )
 
 Inline math equations go in like so: $\omega = d\phi / dt$. Display
 math should get its own line and be put in in double-dollarsigns:
