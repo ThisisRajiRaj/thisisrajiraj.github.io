@@ -4,7 +4,8 @@
         "name": "test.md",
         "title": "Test",
         "caption": "Amsterdam, during our trip in 2019",
-        "image": "images/motivation.jpg"
+        "image": "images/motivation.jpg",
+          "hide":true
     },
     {
         "date": "March 20, 2021",
