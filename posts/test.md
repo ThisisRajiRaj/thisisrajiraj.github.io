@@ -145,7 +145,6 @@ Here's a "line block":
 | Line tree
 
 and images can be specified like so:
-<img src="https://octodex.github.com/images/yaktocat.png" alt="drawing" width="200"/>
 ![example image](https://octodex.github.com/images/yaktocat.png "An exemplary image")
 
 Inline math equations go in like so: $\omega = d\phi / dt$. Display
