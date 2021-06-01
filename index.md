@@ -3,7 +3,7 @@
 <ul>
   {% for post in site.posts reversed %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }} </a> on {{ page.date | date: '%B %d, %Y' }}
+      <a href="{{ post.url }}">{{ post.title }} </a> on {{ page.date | date_to_string }}
     </li>
   {% endfor %}
 </ul>
