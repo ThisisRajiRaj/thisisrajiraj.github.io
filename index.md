@@ -11,6 +11,12 @@ to read. My blog is a collection of my personal experience, my perpectives on va
  my book recommendations, and more.
 
 ##Here is a list of my latest writing
-
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 #### Thank you, and hope you enjoy what I have to share! <3
 
