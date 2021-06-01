@@ -38,10 +38,15 @@ function writeFrontMatterIntoHtml (item) {
 layout: default
 ---
         `   + "\n"
+
+        // Already processed front matter
         if (fileText.trim().startsWith("---")) {      
-            text = ""
-            fileText = fileText.substring(0, fileText.indexOf("---", 25));   
+            /* text = ""
+            fileText = fileText.substring(0, fileText.indexOf("---", 25)); */   
+            return;
         }
+
+        // add layout to use jekyll style in github pages
         fs.writeFile(fileName, text.trim()  + fileText.trim(), function(err) {
             if (err) {
                 console.log(err);
