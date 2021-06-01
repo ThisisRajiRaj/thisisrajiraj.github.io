@@ -10,7 +10,7 @@ and what might be useful for you
 to read. My blog is a collection of my personal experience, my perpectives on various things career,
  my book recommendations, and more.
 
-##Here is a list of my latest writing
+## Here is a list of my latest writing
 <ul>
   {% for post in site.posts %}
     <li>
