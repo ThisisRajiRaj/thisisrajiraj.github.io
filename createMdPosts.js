@@ -35,7 +35,7 @@ function writeFrontMatterIntoHtml (item) {
         } 
         var text = `
 ---
-layout: default
+layout: post
 title: ${item.title}
 date: ${item.date}
 ---`   + "\n"
