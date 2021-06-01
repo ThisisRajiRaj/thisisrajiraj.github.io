@@ -1,49 +1,7 @@
 ---
 layout:       post
 title:        "How to Train Your Fear"
+url:          "/posts/trainyourfear.html"
+canonical_url: "/posts/trainyourfear.html"
+redirect_to: /posts/trainyourfear.html
 ---
-<div className="blog-content">
-	<div>
-		<div className="wsite-image wsite-image-border-none "
-			style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center"> <a> <img
-					src="http://rajigopal.weebly.com/uploads/1/1/8/5/118592459/whatsapp-image-2018-07-17-at-10-12-06-am_orig.jpeg"
-					alt="Picture" style="width:auto;max-width:100%"> </a>
-			<div style="display:block;font-size:90%"></div>
-		</div>
-	</div>
-	<div className="paragraph">
-		<font>One of my dear mentees sent me an email recently.<br><br>“…I feel really thankful to have connected with
-			you. You are inspiring and fearless, and a role model to many of us women.”<br><br>I LOVE this young woman’s
-			note and am grateful that she took the time to write it. But it puzzles me. I do not think of myself as
-			“fearless”. I am frequently in my fear zone. In a way, everyone should be. My friend calls it his
-			"discomfort zone".<br><br>I was in my discomfort zone when I left my family in India and moved to the
-			Americas. I was in it as I stood nervously waiting for my keynote demo to start, facing an arena filled with
-			12000 IT people. I was recently in it when I told my manager I was leaving my well-worn role and looking for
-			a new one.<br><br>The goal, in my mind, is NOT to have an absence of fear, but an ability to deal with it.
-			Over the years, I have developed a few ways to deal with my fears. Here is how I
-			deal:<br><br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-weight: 700;">I recognize and
-				acknowledge my fear</span>. First step to dealing with an issue is to acknowledge it. I take a deep
-			breath and observe how my fear is coursing through my system. I feel heat rise up in my chest, and energy
-			bubble in my hands. My breath goes shallow. These are my fear symptoms. I recognize them and admit to myself
-			that “I am feeling fear”. Step one, done. It’s that
-			simple.<br><br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-weight: 700;">I remind myself I’ll not
-				get out the door if I anchor on every single thing that can go wrong</span>. It may be a dangerous
-			business going out your front door, but you cannot live sheltered in a dungeon forever. That is not how life
-			is meant to be lived. Your path may actually be peaceful, and help may come from many places when you find
-			yourself in trouble.<br><br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-weight: 700;">&nbsp;I
-				hark back to all the times I survived what I thought was impossible</span>. The more you put yourself in
-			uncomfortable situations, the more you deposit experiences in your “self-confidence” bank account. When you
-			face a tough situation, reviewing every one of those experiences can be of great help. (For this reason, you
-			should often put yourself in situations where you can build your “self-confidence” bank
-			account.)<br><br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-weight: 700;">I</span>&nbsp;<span
-				style="font-weight: 700;">reframe the idea of a blank page</span>. A blank page – a new uncertain
-			situation - signifies work. It signifies a possibility of failure. It is frequently the cause of many a
-			writers’ block. What you write on a blank page may be terrible, but what you write may also be your next
-			masterpiece. Your next beautiful poem. Reframe how you look at the blank page: A blank page can signify
-			opportunity and possibilities. It can signify freshness and hope.<br><br>Ancient explorers are often touted
-			as brave. I don’t think they lacked fear. Fear is an essential emotion – it is an evolutionary instinct to
-			point us to immediate danger. But fear can become limiting when not properly dealt with. Ancient explorers
-			were not fearless, they were masters at dealing with fear.<br><br>&#8203;I feel discomfort/fear every time I
-			stare at an unknown situation – an empty page. But I deal with it. Little by little, one can travel far. I
-			remind myself I can always take a little step forward.</font>
-	</div>
