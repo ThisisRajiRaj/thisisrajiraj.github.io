@@ -4,15 +4,12 @@
 @import "{{ site.theme }}";
 
 .page-header{
-color:#ffff;
-background-color:#000000;
-background-image: url("/assets/images/blogheader.jpg") no-repeat center center;
-background-size: auto 100%;
-height: 500px;
-padding-top: 3%;
-padding-bottom: 3%;
+    background: url('http://orig15.deviantart.net/0e45/f/2010/052/1/1/calvin_and_hobbes_2010_by_nami86.png') no-repeat center center;
+    background-size: auto 100%;
+  height: 500px;
+  padding-top: 3%;
+  padding-bottom: 3%;
 }
-
 .main-content h1, 
 .main-content h2, 
 .main-content h3, 
