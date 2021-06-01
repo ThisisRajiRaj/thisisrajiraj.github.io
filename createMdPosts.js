@@ -35,13 +35,14 @@ function writeFrontMatterIntoHtml (item) {
         } 
         var text = `
 ---
-layout: post
+layout: default
 ---
-        `   
-        if (fileText.startsWith("---")) {
-            return
+        `   + "\n"
+        if (fileText.trim().startsWith("---")) {      
+            text = ""
+            fileText = fileText.substring(0, fileText.indexOf("---", 25));   
         }
-        fs.writeFile(fileName, text.trim() + "\n" + fileText, function(err) {
+        fs.writeFile(fileName, text.trim()  + fileText.trim(), function(err) {
             if (err) {
                 console.log(err);
             }
