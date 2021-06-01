@@ -35,25 +35,20 @@ function writeFrontMatterIntoHtml (item) {
         } 
         var text = `
 ---
-layout: default
----
-        `   + "\n"
-
-        // Already processed front matter
-        if (fileText.trim().startsWith("---")) {      
-            /* text = ""
-            fileText = fileText.substring(0, fileText.indexOf("---", 25)); */ 
-            text = `
----
 layout: post
 title: ${item.title}
 date: ${item.date}
----
-        `   + "\n"    ;
+---`   + "\n"
+
+        // Already processed front matter
+        if (fileText.trim().startsWith("---")) {      
+            var startOfHtml = fileText.lastIndexOf("---");
+            fileText = fileText.substring(startOfHtml+3)
+          
         }
 
         // add layout to use jekyll style in github pages
-        fs.writeFile(fileName, text.trim()  + fileText.trim(), function(err) {
+        fs.writeFile(fileName, text + fileText.trim(), function(err) {
             if (err) {
                 console.log(err);
             }
