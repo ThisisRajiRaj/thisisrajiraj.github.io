@@ -6,7 +6,11 @@
 .page-header{
 color:#ffff;
 background-color:#000000;
-background-image: url("/assets/images/blogheader.jpg");
+background-image: url("/assets/images/blogheader.jpg") no-repeat center center;
+background-size: auto 100%;
+height: 500px;
+padding-top: 3%;
+padding-bottom: 3%;
 }
 
 .main-content h1, 
