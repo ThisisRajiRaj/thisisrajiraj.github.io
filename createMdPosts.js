@@ -35,7 +35,7 @@ function writeFrontMatterIntoHtml (item) {
         } 
         var text = `
 ---
-layout: post
+layout: default
 title: ${item.title}
 date: ${item.date}
 ---`   + "\n"
@@ -48,7 +48,7 @@ date: ${item.date}
         }
 
         // add layout to use jekyll style in github pages
-        fs.writeFile(fileName, text + fileText.trim(), function(err) {
+        fs.writeFile(fileName, text.trimStart() + fileText.trim(), function(err) {
             if (err) {
                 console.log(err);
             }
