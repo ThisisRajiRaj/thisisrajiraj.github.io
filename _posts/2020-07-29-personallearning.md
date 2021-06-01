@@ -1,7 +1,224 @@
 ---
 layout:       post
 title:        "Upskill Yourself Through Learning Sprints"
-url:          "/posts/personallearning.html"
-canonical_url: "/posts/personallearning.html"
-redirect_to: /posts/personallearning.html
 ---
+<div>
+ <div>
+
+
+<p>If you are like me, you spend time every day taking care of your family. You spend time <i>_almost_</i> every day taking care of your health. 
+	You set aside time to groom and grow your finances. </p>
+
+
+<p>But how often do you set aside focused time to grow your skills?</p>
+
+<p>I have started doing so every few months in what I call "Personal Learning Sprints". </p>
+
+<p>In my team, we organize our work into "sprints": fast-paced periods of activity where we work together toward a well-defined <i>product</i> goal. 
+	Likewise, personal learning sprints are fast-paced periods where I work toward a <i>personal</i> goal.</p>
+
+  </div>
+<div>
+I did a one such sprint recently. My goal for the sprint was to learn some modern web development tech that I had not coded in before. 
+	Being a dyed-in-wool backend/Systems dev, I have many blind spots in UI coding, and my intent was to fix some of that.
+</div>
+<br/>
+  <div>
+
+<p><h5>This post is about how I went about it and what I learned...</h5></p>
+
+<br/>
+
+
+<p>You might know that I have a personal website I had built using a WYSIWG Site Builder called <a href="www.weebly.com"/>Weebly</a>. 
+Other than some css customizations, I did zero coding for that site. 
+As I embarked on my learning sprint, I chose rewriting my website as my concrete end goal.</p>
+
+</div>
+<div class="p-5">
+
+<div>
+	
+<div>
+<table class="table"><tbody>
+	<tr>
+	    <td class="has-text-align-center pr-5" data-align="center"><a rel="noreferrer noopener" href="http://rajigopal.weebly.com/" target="_blank">Old website</a></td>
+	     <td class="has-text-align-center pr-5" data-align="center"><a rel="noreferrer noopener" href="http://www.rajiraj.com/" target="_blank">New website</a></td>
+	</tr>
+	<tr>
+		<td class="has-text-align-center pr-5" data-align="center"><img class="img-fluid" src="https://thisisrajiraj.github.io/posts/images/oldwebsite.JPG" alt="old website"></td>
+		<td class="has-text-align-center pr-5" data-align="center"><img class="img-fluid" src="https://thisisrajiraj.github.io/posts/images/newwebsite.JPG" alt="new website"></td>
+	</tr>
+	</tbody></table></div>
+	</div>
+
+</div>
+<div>
+
+<h4>So, what did I do?</h4>
+
+
+
+<h5>First, I chose ReactJS as the framework I would learn and use for my new website.</h5>
+
+
+
+<p>Why? Because ReactJS helps create beautiful websites, it is modern, and it has a shorter learning curve than some other frameworks.</p>
+
+</div>
+<div>
+
+<h5>Now came the first hard step.&nbsp;</h5>
+
+
+
+<p>Where do I START learning?</p>
+<p>Thanks to so much information online, learning from scratch turned out to be easy.</p>
+
+
+
+<p>I started with a few videos on <a href="Www.linkedin.com/learning">LinkedIn Learning</a> to get my basic app running. 
+  I created a new private repo on GitHub for my site. 
+  I used <a href="code.visualstudio.com>VS Code</a> to develop the first few pages, applying what I was learning right away on my codebase.</p>
+
+
+
+<p>Within a couple of days, I had my static pages recreated in React. I set up a continuous deployment pipeline with 
+    <a href="https://azure.microsoft.com/en-us/services/devops/">
+    Azure Dev Ops</a>, and got my website deployed on Azure. </p>
+    
+    <p>So far, so sweet!</p>
+
+    </div>
+    <div>
+
+<h5>Now the second hard step.</h5>
+
+
+
+<p>I needed to recreate the entire blogging experience on my site: port over my old posts, create functionality to post new articles, 
+    compute, store, and render metadata on them, and so on. This needed a backend API, and more coding.</p>
+
+
+
+<p>I initially coded up my backend API in NodeJS using Express, another technology popular in the open-source community. 
+    I scratched my head (and a did a lot of searching online) to get it to run on a Windows machine on Azure 
+    (hint: <a href="https://stackoverflow.com/questions/33803659/set-rule-in-web-config-for-express-in-iisnode">web.config</a> is key if you are using IIS to host the app). 
+    Finally I got it working, and excitedly at 1AM on a Friday morning, I checked in the fix!</p>
+
+
+
+<p><img src="https://rajiraj.files.wordpress.com/2020/07/gotazuresitetowork.jpg" class=img-fluid" style="width: 500px;" alt="azure checkin"></p>
+
+
+<p>But I tossed and turned on my bed that night, dreaming about my Azure spend going up needlessly, thanks to this extra web server I'd introduced. 
+    The next day, as I woke up, I had the realization that what I needed was a <a href="https://azure.microsoft.com/en-us/services/functions/">serverless Azure function</a>. 
+   A function that didn’t need an entire web server running ALL the time.</p>
+
+    </div>
+
+    <p><h5>So I decided I would rewrite what I got working the previous night.</h5></p>
+
+
+
+<p>It was painful throwing away the previous night's work, but thankfully creating new Azure Functions was a snap.
+   Perhaps it was because I was no stranger to the Azure ecosystem, but I got my Azure Functions running in less than a few hours. 
+   After that it was just the mechanics of figuring out where to host my article html pages, how my website will find them, 
+   how the Azure Functions will store information and so on: a few more hours of plain coding, and some trial-and-error.
+   </p>
+
+
+
+<p>My personal hackathon lasted a dozen days straight, during lunch hours, evenings and weekends. I became obsessive about my coding, losing sleep, skipping my regular health routines, and developing a throbbing right shoulder muscle. 
+   But I loved every minute of it, even the ones when I was struggling to get something to work.</p>
+
+    </div>
+    <div>
+
+<h4>What did I learn from this experience?</h4>
+
+
+
+<p>Lots! Here are a few of them I want to share:</p>
+
+
+
+<h5>1-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There is joy in creating and coding</h5>
+
+
+
+<p>This one is not a revelation, but it is good to emphasize. Creating is addictive, fun, and energizing. Coding can be never-ending.
+   I could always find another feature to add, another test to write, some more refactoring or optimization to do. 
+   There was joy in all of it, in seeing my work come to life on the screen.</p>
+
+
+
+<h5>2-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Times are tough. Tide over them by focusing on a project</h5>
+
+
+
+<p>There is no running away from it: these are difficult times. I have elderly relatives I worry about all the time. I have teams abroad that I cannot visit. 
+   I have friends who have lost their jobs. Paradoxically, it is exactly when so much is going on in your life that you should take some time out to learn for the joy it.
+   It gave me enormous peace of mind to focus on solvable problems. What’s more, upskilling oneself is needed now more than ever.</p>
+
+
+
+<h5>3-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Senior Tech Leaders should keep their pencils sharp</h5>
+
+
+
+<p>To provide good leadership for the team, it is important that your own hard-own tech skills are not blunted. You learn a few things by actually doing the thing that makes you more empathetic and relatable to people in your teams.</p>
+
+
+
+<h5>4-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The first mile and the last mile are the hardest</h5>
+
+
+
+<p>Often I find it is tough to get started. You need to install a ton of things, understand the basic paradigm of the tech, find the right learning material. But once you get started, the last mile becomes the next hardest bit. When you are ready to integrate the pieces you have built, ready to host your app on a Cloud platform, once again things seem to get tough. But persevere, keeping this universal truth in mind.</p>
+
+
+
+<h5>5-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pick something concrete to do</h5>
+
+
+
+<p>Learning is best done when you have something concrete to do, and not in the abstract. You don't have to invent the next Netflix for your learning project, so pick something simple and easy. Picking the goal to rewrite my website early on helped me apply my new skills to something I could immediately see in action.</p>
+
+
+
+<h5>6-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Do not wait too long to "get to market"</h5>
+
+
+	
+<p>Someone I know once told me that he can't put anything into action before he finishes "the book on it cover to cover" and understands the perfect design for it. 
+   You cannot approach tech like that these days. So much of learning now is accessible online, exactly when you need to apply it.</p>
+
+
+
+<blockquote><p>The best way is to tinker, learn, get it to work. Then go back and repeatedly cleanup and optimize. Learn in increments, from various sources, and not serially like a waterfall.</p></blockquote>
+
+
+ <p>That said, always think end-to-end before calling something done. Have you added test cases? Have you looked at code hygiene? Do you have CI/CD set up for the code? Is the code in a source control system?</p>
+   <p>And do not shy away from reworking your code. I found I had to rework my code constantly as I learned more, reflected more on what I had done, and saw things in action. Such hard work can pay off in better cementing your learning.</p>
+
+
+
+<h5>7-&nbsp;&nbsp;Give back!</h5>
+
+
+
+<p>My learning would not have been possible without several people freely sharing their code samples on GitHub, their reusable components on NPM, their advice on Stackoverflow. And in turn, my goal was to contribute back into the ecosystem, turning my code into <a href="https://www.npmjs.com/settings/rajiraj/packages" rel="noreferrer noopener" target="_blank">NPM packages</a> and <a href="https://github.com/ThisisRajiRaj/" rel="noreferrer noopener" target="_blank">open source GitHub repos</a>. Find a way to share your learning. Pass on your lessons to others.</p>
+
+    </div>
+    <div>
+
+<p>My twelve days of learning this month was a ton of fun. These short, intense bursts of learning are always energizing. I loved it so much that I recommend that you try it as well.</p>
+
+
+<div style="border-style:double;border-color:black;padding:10px">
+<blockquote ><p><em>Think of something you have been wanting to learn recently. How can you learn it? What concrete project would you choose, and how will you find the time?</em></p></blockquote>
+	    </div>
+
+    </div>
+    </div>

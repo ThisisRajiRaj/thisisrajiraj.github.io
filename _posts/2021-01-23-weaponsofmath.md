@@ -1,7 +1,187 @@
 ---
 layout:       post
 title:        "With great power comes great responsibility: Weapons of Math Destruction"
-url:          "/posts/weaponsofmath.html"
-canonical_url: "/posts/weaponsofmath.html"
-redirect_to: /posts/weaponsofmath.html
 ---
+<p>
+    On a trip back to India two years ago, I struck up a conversation with 
+    the helper in my family's home, Jayanthi. Jayanthi is from one of the oppressed castes in India. She had been working in other people's homes,
+    sweeping floors, washing clothes, and scrubbing dishes, ever since she was a teenager. That 
+    had been her 'family profession'.  
+</p>
+<p>
+    One blistering afternoon, as an enormous ceiling fan was whirling over our
+    heads, I asked Jayanthi if her daughters went to school. Would she send them to college some day? 
+    I asked, hoping for an affirmative and fearing the opposite.
+</p>
+<p>
+    "No, ma," she said, "What are they going to do with
+    school?"
+</p>
+<p>
+    "Wouldn't you like to see them in an office job?" I asked.
+</p>
+<p>
+    "No, that's never going to happen," she shook her head and dismissed the
+    notion as though it were as laughable as a unicorn in the middle of our living
+    room.
+</p>
+<p>
+    Later that night, as I lay on fresh-smelling sheets, I reflected on our chat. I valued education above most
+    things in life. That's partly because I had the advantage of a father who 
+    believed in education. He himself had grown up in a
+    family filled with scholars: one of his grandfathers was a local
+    magistrate, and the other was a doctor. Our family had been steeped in
+    education for generations. I had personally seen how education can elevate a person's life. 
+</p>
+<p>
+Jayanthi did not 
+have the same schemas in her head that equated  
+learning to empowerment and
+    progress. Her options, dreams, and prospects were  
+circumscribed by the norms for her caste and class. I had seen 
+many people like Jayanthi, unable to break their cycles  
+because of history and biases. Jayanthi and I lived worlds apart, even though 
+we inhabited the same space under that ceiling fan. Unless something changed drastically, her family would likely never catch up to mine in their quality of life. Our gap could even, sadly,  
+widen over time.
+</p>
+<p>
+    This little encounter came into my head recently when I read a book about the use of 
+    data in mass decision-making systems and how that results in greater
+    inequality in our society. The book is called "Weapons of Math
+    Destruction", written by Cathy O'Neil.
+  </p>
+  <br/><br/>
+
+<img className="pb-5" src="https://thisisrajiraj.github.io/posts/images/weapons.jpg" 
+    style="max-width: 50%;max-height: 50%"/>
+<br/><br/>
+  <p>
+  In modern
+    times, mass decision-making algorithms decide many aspects of our lives. 
+      They decide
+    who gets a loan, who goes to top schools, who gets locked up in a prison, who
+    is hired for jobs, and so on. They can bring greater fortune or greater ruin to individuals. 
+</p>
+<p>They often use <em>heuristics (</em>aka
+    'rules of thumb') to make such judgements. These heuristics are coded in or
+    learned from data by the machine. They are usually based on the
+    belief that <em>the</em> <em>past can predict the future</em>. 
+</p>
+<p>
+    There are three problems with such heuristics.
+</p>
+<p>
+    <ol>
+
+        <li>
+   Their conclusions are probabilistic in nature. They may say, for example, 
+that Jayanthi will __probably__ not
+ pay back a loan, if she 
+had defaulted before. But people and their circumstances 
+change. Without heed to that fact, 
+if such conclusions are 
+applied with a scalpel's precision on a human, 
+they can result in 
+<b>vicious cycles that one can never get 
+out of.</b> 
+        <li>
+<p>
+    It is not just you, the individual, on whom the bright gaze of these
+    algorithms falls. The algorithms try to predict your behavior based on
+            behavior of people <b>'like you'</b> and their past too. People from the same race as you, the same
+    zip code as you, the same economic stratum as you.
+
+</p>
+<p>
+
+In human brain, such 
+pattern matching is not new and not wholly
+    pernicious. It helped our ancestors survive in the Savannahs. Our IQ tests
+    judge us as intelligent if we can group similar objects based on abstract
+    patterns. But it can often lead us astray. 
+</p>
+<p> 
+It
+    leads us to believe that a woman who has neatly styled hair, wearing bold
+    lipstick and six-inch heels, does not fit the mold of a scientist. It can
+    cause juries to pre-judge a black man guilty. It can cause school
+    admissions officials to judge Jayanthi's daughter, living in her rickety
+    shack in a squalid slum with illiterate parents, to be less likely to
+succeed in their schools.    <strong>These are dangerous biases and stereotypes in our heads</strong>.
+    Many of us will steer away from them if we become aware of them. But
+    when they come sheathed in the sophistication, the supposed objectiveness, and the opaqueness of our algorithms, we
+    simply accept them as truths.
+</li>
+<li>
+    These mass data systems <strong>miss the trees for the forest</strong>.
+    Look at the image below. 
+
+<br/><br/>
+
+<img className="pb-5" src="https://thisisrajiraj.github.io/posts/images/snoman.jpg" 
+    style="max-width: 60%;max-height: 60%"/>
+<br/><br/>
+
+If I asked you what this image is, you 
+    might say that it is drawing of a group of snowmen. You might be right in the 'big
+    picture', but you also missed the lone panda lurking in there. (If you
+    can't see her, I will give you a hint at the end of this article.) In the
+    forest of snowmen, most people miss the panda. But the panda exists and
+    needs to be fed. 
+
+</p>
+<p>
+
+Our data systems miss the lone pandas too. Often our data
+    systems make decisions from aggregate wholes and miss the nuances of
+    individuals in the group. For example, if you made a decision about the need of bamboo
+    sticks using the average of this picture, most likely the panda
+    would not get her bamboo. That - indeed - would be sad.
+        </li></ol>
+</p>
+<p>
+    The truth is that what applies to the sum may not apply to the constituent
+    parts. Our mass data systems, however, ignore that. They aggregate data and
+    present conclusions that human decision-makers then turn around and apply
+    to individuals. It becomes more damaging when these algorithms are used
+    over large numbers of heterogenous people, do not use feedback loops to
+    correct their mistaken inferences, and act as black boxes whose conclusions
+    cannot be taken apart with reasoning.
+</p>
+<p>
+    I live and breath data in my work. I have built multiple software systems
+    that use intelligence to aid human decision-making. I am not against the
+    use of data, far from it. In our modern lives, data helps us avoid
+    congested roads when we drive. It prods us to pack an extra sweater for our
+    trip abroad. It tells me that I
+    should try Yuval Noah Harari's book next, because I have liked similar
+    books in the past and my friends have liked his writing. Modern data
+    systems have come to understand us as well as, or even better than, our
+    dearest friends.
+</p>
+<p>
+    But Cathy O'Neil is right. Our data systems can make mistakes. And when
+    they make mistakes at massive scales, the result may be as innocuous as a few
+    drenched and unhappy humans who didn't take an umbrella with them when it rained. But it may
+    also result in the erosion of our democracy, the widening of inequality, and the
+    destruction of justice.
+</p>
+<p>
+    Human societies have been riddled with inequality since pre-historic times.
+    Jayanthi's station in life comes from centuries of oppression of some 
+    humans by others. But the arc of history has been bending relentlessly toward
+    justice. As we build our future, as we architect a world driven more and
+    more by math, let us not reverse that. Let's be cognizant of biases in data. With great power
+    comes great responsibility. Data and math are insanely powerful. Let us
+    wield them responsibly. Let's build trust in our systems with transparency, feedback loops, and diversity in the process of training and creating them.
+</p>
+<p>
+    I enjoyed reading the book
+    <a href="https://www.amazon.com/dp/B019B6VCLO">
+        Weapons of Math Destruction.
+    </a>
+     It was thought-provoking, much needed in these times reverberating with voices of unity as well of division. 
+</p>
+<p>
+    <small>Couldn't find the panda? Locate the snowman with a checkered green scarf, move four figures to the right and look at one row above. </small>
+</p>
