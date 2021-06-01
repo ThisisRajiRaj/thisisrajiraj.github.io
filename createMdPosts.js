@@ -42,8 +42,14 @@ layout: default
         // Already processed front matter
         if (fileText.trim().startsWith("---")) {      
             /* text = ""
-            fileText = fileText.substring(0, fileText.indexOf("---", 25)); */   
-            return;
+            fileText = fileText.substring(0, fileText.indexOf("---", 25)); */ 
+            text = `
+---
+layout: post
+title: ${item.title}
+date: ${item.date}
+---
+        `   + "\n"    ;
         }
 
         // add layout to use jekyll style in github pages
