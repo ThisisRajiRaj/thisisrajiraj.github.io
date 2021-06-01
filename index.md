@@ -7,10 +7,10 @@ I think about what might be
 meaningful, 
 what might entertaining, 
 and what might be useful for you 
-to read. My blog is a collection of my personal experience, my advice on various things career,
- my recommendations, and more.
+to read. My blog is a collection of my personal experience, my perpectives on various things career,
+ my book recommendations, and more.
 
-## Visit my [website](https://www.rajiraj.com/blog) to read my writing. 
+##Here is a list of my latest writing
 
 #### Thank you, and hope you enjoy what I have to share! <3
 
