@@ -32,15 +32,15 @@ function writeFrontMatterIntoHtml (item) {
         if (err) {
             console.log("Post html file read failed:", err)
             return
-        }    
-        if (fileText.startsWith("---")) {
-            return
-        }
+        } 
         var text = `
 ---
 layout: post
 ---
-        `
+        `   
+        if (fileText.startsWith("---")) {
+            return
+        }
         fs.writeFile(fileName, text.trim() + "\n" + fileText, function(err) {
             if (err) {
                 console.log(err);
