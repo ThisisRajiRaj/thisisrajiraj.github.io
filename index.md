@@ -12,7 +12,7 @@ to read. My blog is a collection of my personal experience, my perpectives on va
 
 ## Here is a list of my latest writing
 <ul>
-  {% for post in site.posts %}
+  {% for post in site.posts reversed %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
