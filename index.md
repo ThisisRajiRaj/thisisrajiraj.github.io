@@ -1,9 +1,9 @@
 
-## Here is a list of my latest writing
+## Welcome to my blog. Here is a list of my latest writing.
 <ul>
   {% for post in site.posts reversed %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }} </a> on {{ page.date | date: "%-d %B %Y" }}
+      <a href="{{ post.url }}">{{ post.title }} </a> on {{ post.date | date_to_string }}
     </li>
   {% endfor %}
 </ul>
