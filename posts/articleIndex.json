@@ -3,7 +3,8 @@
         "date": "November 02, 2021",
         "name": "global",
         "title": "It takes more than a village",
-        "image": "images/global.jpg"
+        "image": "images/global.jpg",          
+        "caption": "Announcing Test Base for Microsoft 365 three years ago"
     },
     {
         "date": "October 14, 2021",
