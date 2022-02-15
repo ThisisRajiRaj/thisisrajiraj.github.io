@@ -4,65 +4,76 @@
         "date": "February 09, 2022",
         "name": "fourthousand",
         "title": "Four thousand weeks: a case for embracing what you can't control",
-        "image": "images/fourthousand.jpg"
+        "image": "images/fourthousand.jpg",
+        "categories": ["book","philosophy","mentalhealth"],
+        "_supportedcategories_": "science,mentalhealth, philosophy,book,career,travel,photography,work,inclusion,writing,hiking,lifelessons"
     },
     {
         "date": "January 30, 2022",
         "name": "speaking",
         "title": "There are two types of speakers...",
-        "image": "images/speaking.jpg"
+        "image": "images/speaking.jpg",        
+        "categories": ["career", "work"]
     },
     
     {
         "date": "January 23, 2022",
         "name": "goodpicture",
         "title": "Serendipity vs. preparation",
-        "image": "images/goodpicture.jpg"
+        "image": "images/goodpicture.jpg",           
+        "categories": ["photography", "career", "work"]
     },
     {
         "date": "January 22, 2022",
         "name": "beingyou",
         "title": "What does it mean to be YOU?",
         "image": "images/beingyou.jpg",        
-        "caption": "A spellbinding sunset at Cannon Beach, Oregon"
+        "caption": "A spellbinding sunset at Cannon Beach, Oregon", 
+        "categories": ["book", "philosophy","science"]
     },
     {
         "date": "January 01, 2022",
         "name": "traps",
         "title": "Nine Thinking Traps",
-        "image": "images/traps.jpg"
+        "image": "images/traps.jpg", 
+        "categories": ["mentalhealth", "work","science"]
     }, 
     {
         "date": "December 31, 2021",
         "name": "priorities22",
         "title": "Two questions for the new year",
         "image": "images/priorities22.jpg",        
-        "caption": "Watching the sun rise in Joshua Tree National Park"
+        "caption": "Watching the sun rise in Joshua Tree National Park",
+        "categories": ["lifelessons", "mentalhealth"]
     },
     {
         "date": "December 24, 2021",
         "name": "spectral",
         "title": "Astrophotography lessons",
-        "image": "images/spectral.jpg"
+        "image": "images/spectral.jpg", 
+        "categories": ["photography", "lifelessons"]
     }, 
     {
         "date": "December 15, 2021",
         "name": "break",
         "title": "A glorious break",
-        "image": "images/break.jpg"
+        "image": "images/break.jpg", 
+        "categories": ["mentalhealth", "trave", "work"]
     }, 
     {
         "date": "December 14, 2021",
         "name": "books2021",
         "title": "My 2021 Book Recommendations",
-        "image": "images/books2021.jpg"
+        "image": "images/books2021.jpg", 
+        "categories": ["book"]
     }, 
     {
         "date": "November 02, 2021",
         "name": "global",
         "title": "It takes more than a village",
         "image": "images/global.jpg",          
-        "caption": "Announcing Test Base for Microsoft 365 two years ago"
+        "caption": "Announcing Test Base for Microsoft 365 two years ago", 
+        "categories": ["inclusion","work"]
     },
     {
         "date": "October 14, 2021",
@@ -84,14 +95,16 @@
         "name": "mentalhealth",
         "title": "Care for your mind",
         "caption": "View of the sea from Dyrholaey viewpoint, where storms rage often.",
-        "image": "images/mentalhealth.jpg"
+        "image": "images/mentalhealth.jpg", 
+        "categories": ["mentalhealth", "travel"]
     },
     {
         "date": "September 16, 2021",
         "name": "iceland",
         "title": "Appreciate hot showers, and other life lessons",
         "caption": "A lonely church in Iceland",
-        "image": "images/iceland.jpg"
+        "image": "images/iceland.jpg", 
+        "categories": ["mentalhealth", "hiking","photography","work"]
     },
     
     {
