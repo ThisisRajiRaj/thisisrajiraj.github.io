@@ -1,5 +1,12 @@
 [ 
     {
+        "date": "March 09, 2022",
+        "name": "smallstuff",
+        "title": "Zoom out",
+        "image": "images/smallstuff.jpg",      
+        "categories": ["mentalhealth","lifelessons"]
+    },
+    {
         "date": "March 06, 2022",
         "name": "goldfinch",
         "title": "The Goldfinch - a book review",
