@@ -1,5 +1,12 @@
 [ 
     {
+        "date": "March 19, 2022",
+        "name": "fairytale",
+        "title": "And she lived happily ever after",
+        "image": "images/letgo.jpg",      
+        "categories": ["inclusion","career"]
+    },
+    {
         "date": "March 09, 2022",
         "name": "smallstuff",
         "title": "Zoom out",
