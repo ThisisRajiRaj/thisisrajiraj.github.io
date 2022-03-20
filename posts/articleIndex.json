@@ -1,5 +1,12 @@
 [ 
     {
+        "date": "March 20, 2022",
+        "name": "spring",
+        "title": "What man has made of man",
+        "image": "images/spring.jpg", 
+        "categories": ["worldaffairs"]
+    },
+    {
         "date": "March 19, 2022",
         "name": "fairytale",
         "title": "And she lived happily ever after",
