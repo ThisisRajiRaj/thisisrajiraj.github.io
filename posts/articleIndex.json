@@ -1,5 +1,13 @@
 [ 
     {
+        "date": "June 22, 2022",
+        "name": "olympic",
+        "title": "Wilderness Therapy",        
+        "caption": "Hiking in the Olympic National Park", 
+        "image": "images/olympic.jpg",      
+        "categories": ["mentalhealth","lifelessons","travel", "photography"]
+    },
+    {
         "date": "March 20, 2022",
         "name": "spring",
         "title": "What man has made of man",
