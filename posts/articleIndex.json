@@ -1,5 +1,12 @@
 [ 
     {
+        "date": "June 27, 2022",
+        "name": "kids",
+        "title": "White spaces at the edge of print",       
+        "image": "images/kids.jpg",      
+        "categories": ["worldaffairs"]
+    },
+    {
         "date": "June 22, 2022",
         "name": "olympic",
         "title": "Wilderness Therapy",        
