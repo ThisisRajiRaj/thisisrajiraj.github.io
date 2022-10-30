@@ -1,5 +1,13 @@
 [
     {
+        "date": "October 29, 2022",
+        "name": "viaalpina",
+        "title": "Notes from a mountain walk",        
+        "caption": "Looking out at Lake Engstlenalp", 
+        "image": "images/viaalpina.jpg",      
+        "categories": ["mentalhealth","lifelessons","travel", "photography"]
+    },
+    {
         "date": "July 22, 2022",
         "name": "rainier",
         "title": "Best laid plans at Mount Rainier National Park",        
