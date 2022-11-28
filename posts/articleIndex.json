@@ -1,4 +1,11 @@
 [
+     {
+        "date": "November 27, 2022",
+        "name": "athai",
+        "title": "A pair of golden bangles",        
+        "image": "images/athai.jpg",      
+        "categories": ["personal","women"]
+    },
     {
         "date": "October 29, 2022",
         "name": "viaalpina",
@@ -125,7 +132,7 @@
         "name": "break",
         "title": "A glorious break",
         "image": "images/break.jpg", 
-        "categories": ["mentalhealth", "trave", "work"]
+        "categories": ["mentalhealth", "travel", "work"]
     }, 
     {
         "date": "December 14, 2021",
