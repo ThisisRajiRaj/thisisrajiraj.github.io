@@ -1,4 +1,10 @@
 [
+    {
+        "date": "December 03, 2022",
+        "name": "bookrelease",
+        "title": "y new book just launched!", 
+        "categories": ["book","psa"]
+    },
      {
         "date": "November 27, 2022",
         "name": "athai",
