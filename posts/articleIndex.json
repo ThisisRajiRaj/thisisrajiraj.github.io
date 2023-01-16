@@ -1,9 +1,16 @@
 [
     {
+        "date": "January 16, 2023",
+        "name": "community",      
+        "image": "images/community.jpg",      
+        "title": "The very human capacity to support and empower each other", 
+        "categories": ["book","women", "daring"]
+    },
+    {
         "date": "December 03, 2022",
         "name": "bookrelease",
         "title": "My new book just launched!", 
-        "categories": ["book","psa"]
+        "categories": ["daring", "book","psa"]
     },
      {
         "date": "November 27, 2022",
