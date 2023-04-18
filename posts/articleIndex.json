@@ -4,7 +4,7 @@
         "name": "library",      
         "image": "images/library.jpg",      
         "title": "What is your happy place? Mine is a library...", 
-        "categories": ["book","women", "daring"]
+        "categories": ["book","personal", "daring"]
     },
     {
         "date": "March 19, 2023",
