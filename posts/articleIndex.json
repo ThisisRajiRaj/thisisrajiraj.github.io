@@ -1,5 +1,12 @@
 [
     {
+        "date": "May 07, 2023",
+        "name": "newbookcoming",      
+        "image": "images/newbookcoming.jpg",      
+        "title": "Exciting news! Book 2 in the Daring to be Different series coming soon!!", 
+        "categories": ["book","psa", "daring"]
+    },
+    {
         "date": "April 16, 2023",
         "name": "library",      
         "image": "images/library.jpg",      
