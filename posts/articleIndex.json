@@ -1,5 +1,12 @@
 [
     {
+        "date": "December 20, 2023",
+        "name": "appa",      
+        "image": "images/structure.jpg",      
+        "title": "Moving forward with brokenness", 
+        "categories": ["lifelessons"]
+    },
+    {
         "date": "July 04, 2023",
         "name": "structure",      
         "image": "images/structure.jpg",      
