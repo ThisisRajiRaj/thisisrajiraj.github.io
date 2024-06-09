@@ -1,5 +1,12 @@
 [
     {
+        "date": "June 08, 2024",
+        "name": "bookreco",      
+        "image": "images/bookrecos.jpg",      
+        "title": "20 books from 20+ years of reading", 
+        "categories": ["book","personal"]
+    },
+    {
         "date": "March 04, 2024",
         "name": "weeping",      
         "image": "images/dad.jpg",      
