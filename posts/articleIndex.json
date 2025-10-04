@@ -1,5 +1,12 @@
 [
     {
+        "date": "Oct 04, 2025",
+        "name": "juliana",      
+        "image": "images/juliana.jpg",      
+        "title": "Don't see the sky through a straw, and other notes from the Juliana Trail", 
+        "categories": ["mentalhealth","lifelessons","travel", "photography"]
+    },
+    {
         "date": "June 08, 2024",
         "name": "bookreco",      
         "image": "images/bookrecos.jpg",      
