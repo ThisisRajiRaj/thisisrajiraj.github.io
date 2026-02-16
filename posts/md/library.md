@@ -1,0 +1,67 @@
+---
+layout: post
+title: What is your happy place? Mine is a library...
+date: April 16, 2023
+---
+
+<div>
+
+<div>
+
+<div>
+
+Sometimes I come across an image of a room where the walls are lined with bookcases full of heavy, beautifully bound books. I did not grow up in a home like that. In my father's home, we had about a dozen books - musty, dog eared classics - stowed away in a wooden crate on our attic. Those were all the books we possessed.
+
+These books, though, were full of knowledge and murmurs of a bygone time. They were written by remarkable writers like Shakespeare, Dickens, and Hardy. They were peopled with humans dressed in unrelatable outfits: Top hats and cravats and bonnets. Ruffs and collars and breeches. These books smelled of dust and damp. When you opened one of them and flipped through their yellowed crinkly pages, a silver worm or two would crawl out. They were my father's dear possessions.
+
+As a child, I remember scurrying down the labyrinthine narrow alleys of Royapettah with my aunt as she made her way to a local lending library. This library loaned books in Tamil - they had very few, if any, English language books. I could borrow one book at a time and keep it for a week. I remember occasionally indulging in a trashy fantasy novel where the hero had to perform extraordinary feats of bravery: go on adventures fording gushing rivers, scale craggy mountains, slay monsters to save a beloved's life. But I didn't find these libraries held my heart. Back then, I did just some occasional, one-off reading outside of my textbooks. I never thought of myself as a reader.
+
+As a child living with extended relatives, I was preoccupied with learning my place in my household, bending myself around the people I lived with, and finding ways to bend their rules around my needs and wants. Reading was a luxury I couldn't afford - in more ways than one.
+
+After I got married and moved to Canada, though, the timbre of my life changed. Suddenly, I had stability. I had a place in the world where I could learn how to be an adult. I could read, run, jump, dress as a scarecrow if it pleased me - I could do anything I wanted without worrying about inconveniencing a relative and getting an earful from a querulous grandmother. It helped that the man I had married had a sweet temperament and principles that stood for justice and equality.
+
+  
+
+<figure>
+<img src="https://thisisrajiraj.github.io/posts/images/library.jpg" style="max-width: 100%;max-height: 100%;" />
+<figcaption><span class="small"></span>
+<p>AI-generated image of a girl amongst books. Check out Bing Chat for more such cool art.</p></figcaption>
+</figure>
+
+  
+
+The local library in Richmond, Canada, where we lived, felt like a temple to me. A temple that was so quiet that a rustle of clothes, a whisper from a patron, the click of boots sounded too loud. The space - in retrospect- was actually small. But at that time, having been used to my hometown library that was narrower than airplane lavatories, I clocked them as cavernous. Rows and rows of chestnut shelves filled with books full of wisdom, information, entertainment. I could borrow 25 books at once and keep them for a month!!! It almost felt like an embarrassment of riches. If someone had given me a chest full of gold coins to lie in, I wouldn't have felt richer or happier.
+
+I soon started reading everything I could get my hands on. We moved to Vancouver as I started college in UBC. Our home was in the basement of a two storied Victorian house. There were two small rectangular panes of glass that let in sunlight into our single bedroom. Most of the time, in cloudy Vancouver, the sunshine was weak and pale. I had a light brown IKEA desk in one corner of our bedroom. This was where I stacked all my library books and wrote a few things on my margined and lined notebooks.
+
+I devoured all the "all time must read" classics. Maybe it was the early subconscious influence of my dad or maybe it was what I thought one should do to become well read. Or maybe, simply - and this was very likely - I truly enjoyed learning about worlds and times that are not our own. Regency dances, long muslin dresses, and dainty teacups in staid English drawing rooms amused me. They still amuse me. So I read Shakespeare and Dickens and Hardy. I relished the arcane and complex words in them. I puzzled over the state of womanhood in Jane Austen and George Eliot. I learned about poverty, class, workers movements, and women's empowerment from Elizabeth Gaskell. I borrowed books on slavery and civil rights in America. I tried to enjoy Hemingway and Fitzgerald, but I never got the high praise about them.
+
+I read non-fiction books on rationality and scientific thinking. I read memoirs and fiction set in Iran and Afghanistan. I read books about reading books and about writing books.
+
+I am still ravenous for all kinds of books. Now I have a digital device that can hold 10s of 1000s of books at once, and I often greedily borrow too many books into it from my local library. I am known to forget my purse or my Microsoft badge to get me into my office, but I rarely forget my reading device. It goes with me in my large handbag wherever I go: whether it is to the dentist's office or the supermarket or a pub.
+
+My local library has been my refuge for many years now, my favorite place in the world to be. Before the pandemic, I used to drive to the library on sunny Saturday afternoons to just sit in the stillness, and the quiet, and read. Our local branch has tall French windows where sunshine streams in plentifully. The reading room has several deep armchairs upholstered in coarse patterned polyester. The library attracts all kinds of people: gaggles of kids that laugh and talk entirely too loudly for such quiet spaces, young women taking a break in the middle of their day thumbing through magazines, homeless people sheltering indoors for a bit, aged folks that are hungry to interact with other humans…
+
+The pandemic broke my habit of visiting the library a few times a week. In fact, I had not set foot in one until last month when I decided to wander in one day. The library has changed for sure. Nothing remains unchanged by time. Just like you never notice the changes in a person you live with, but you quickly observe all the ways someone has changed after a few years apart, I could sense all the ways the place felt unfamiliar. It smelled and looked and sounded like a foreign country.
+
+Still, my love for the library remains unchanged. Books have been my favorite companion for years now. The library is my favorite place to spend time in. This public space has meant so much in my life. It has afforded me an immeasurable level of access to resources to learn from, to become better as a human, and be entertained. I am forever grateful.
+
+So when I saw the other day that my local library has decided to purchase a few copies of my book - and there are three times as many holds on the book as there are copies available - I was thrilled. I am even more thrilled that I have the privilege to speak at a location of the library - this place that I love beyond imagination - to young adults about skills to have a great career in tech. Everyone is invited to this talk on April 18th at the Sammamish King County Library, especially if you have a loved one early in their own career.
+
+  
+
+<figure>
+<a href="https://kcls.bibliocommons.com/events/640a20fe18e5953e00d67cac"><img src="https://thisisrajiraj.github.io/posts/images/libraryevent.jpeg" style="max-width: 100%;max-height: 100%;" /></a>
+<figcaption><span class="small"></span>
+<p>If you are in the Greater Seattle area on April 18, 2023, do stop by the Sammamish Library for this <a href="https://kcls.bibliocommons.com/events/640a20fe18e5953e00d67cac">event</a>.</p></figcaption>
+</figure>
+
+  
+
+If you are in the neighborhood, stop by to say hi. More importantly, please support your local library. \<3
+
+</div>
+
+</div>
+
+</div>

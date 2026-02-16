@@ -1,0 +1,49 @@
+---
+layout: post
+title: What does it mean to be YOU?
+date: January 22, 2022
+---
+
+The last memory I have of my father-in-law is on a video call from a hospital three years ago. He was trying to look cheery and to wave at us. It broke my heart to see him so frail - he had been one of the strongest men I knew. I hoped he would get out of the hospital soon, fully recovered.
+
+Alas, the head injury he had sustained proved to be fatal. He deteriorated rapidly. Three days after that video call, he lost consciousness. A week later, his body shut down, and he left us.
+
+I think of my father-in-law often, partially because he had been such a solid presence in our lives just a little while ago. Now he was nothing but wistful memories scattered across many minds. I think of his life, but also of the manner of his death. Of how his consciousness had so swiftly turned into unconsciousness, separating him from the world and us from him. Once he lost consciousness, it was a sharp slide into nothingness and death.
+
+Consciousness is instrumental to our lives. We are living organisms, just like whales and tortoises and parakeets, with our bodies made of blood and sinews and other organic matter. We are intelligent - in many ways the most intelligent species around. But it's our consciousness - our ability to be aware of our existence, our "self"- that really adds color to lives. But have you ever wondered what this "self" really is? Is it your body? Your brain? Your collection of memories, preferences, and stories?
+
+Your body - like mine and every other living being's - is made up of cells. Trillions of them in our case. These cells strive and cooperate with each other to keep you alive. And yet, none of them is conscious. When they are put together in the exact configuration that makes up your individual body and mind, then suddenly, YOU are the result. How does that happen? How does consciousness arise out of the physiological units that make up a human?
+
+This is the topic of the book "Being You" by a British neuroscientist Anil Seth. The book is super well-written, very easy to understand even if you are not a neuroscientist.
+
+  
+
+<figure>
+<img src="https://thisisrajiraj.github.io/posts/images/anilseth.jpg" style="max-width: 80%;max-height: 80%;" />
+</figure>
+
+  
+
+The core idea of the book is that consciousness is really a controlled hallucination of our minds. One can never experience reality as it truly is, the book posits. Reality gets delivered to our consciousness in the form of predictions - "best guesses" - offered by our brains and constrained by signals from our senses. Everything that is part of our subjective experience is a model built by our brains, the prediction machine that has evolved to keep us alive and kicking.
+
+It's not just how we perceive our world that is the result of this prediction machinery. It's our emotions, moods, and our sense of self too. Let's go back to the question of what your "self" really is. Dr. Seth talks about different dimensions of self - your narrative self (how you tell the story of your life), your social self (how you think others perceive you), your volitional self (you as a doer of actions out of your own will), your bodily self (your experience of being a body), and your perspectival self (how you view the world primarily through your singular perspective). But all of these different conceptions of selfhood ultimately are the result of the predictive machinery in your head to keep you going.
+
+  
+
+<div style="border-style:double;border-color:black;padding:10px">
+
+> "It seems as though the world is revealed directly to our conscious minds through our sensory organs. With this mindset, it is natural to think of perception as a process of bottom-up feature detection—a “reading” of the world around us. But what we actually perceive is a top-down, inside-out neuronal fantasy that is reined in by reality, not a transparent window onto whatever that reality may be."
+>
+> "You could even say that we’re all hallucinating all the time. It’s just that when we agree about our hallucinations, that’s what we call reality."
+>
+> -- Anil Seth, *Being you*
+
+</div>
+
+  
+
+Consciousness is a topic that has long fascinated me. I was fifteen years old when I first thought about it. I remember standing in front of a mirror, combing my hair, in a dark, low-ceilinged bedroom of my aunt's house. I peered into the mirror, its sheen worn off from decades of use. I suddently and eerily became aware of myself as a living, breathing entity. A question popped into my head: "Who is this person standing here?"
+
+Of course, I knew who I was. I knew my name. I knew my history. I knew my likes, my dislikes, and my aspirations. I knew math was my favorite subject and geography my least favorite. But these were not the answers to the question that crystallized in my head that day. What I was wondering then was deeper: what/who was this conscious "I"?
+
+This book "Being you" has been a captivating read to answer that question. It is a question that is not just interesting to answer out of curiosity, but it also has implications across many domains of life. For example, when is it ok to get someone off life support? How conscious are the different animals we experiment on? Can a machine become conscious? What is our responsibility in a world where machines are conscious? So many fascinating problems to solve for the world of tomorrow, and this book offers a ton of insights toward such problems.

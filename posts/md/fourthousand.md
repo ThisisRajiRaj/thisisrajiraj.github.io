@@ -1,0 +1,78 @@
+---
+layout: post
+title: Four thousand weeks - a case for embracing what you can't control
+date: February 09, 2022
+---
+
+When my mother died one fine morning thirty-nine years ago, we didn't expect it. My father was just thirty-seven. I am guessing that at that moment he was devastated, shaken up. If he had considered his future stretching out in front of him, he might have seen uncertainty. He might have worried about how he was going to raise two young children, all on his own from then on.
+
+Fast forward almost four decades, and our family is just fine. Sure, we endured challenges and setbacks, just like many people and many families do around the globe. But we still love our dad, and we are all still mostly ok. My mother passing away, while heart-rending, didn't mean a catastrophe for us. We dealt with it as we always deal with any obstacle. Life unfolded along a dimension that I am sure my dad had never imagined before.
+
+But that's how the future is - not fully in our control and often surprising us. Yet at moments of uncertainty, we get all worked up because we want the future to be entirely in our control. We want the future to materialize exactly as we envision it. We want it to not surprise us.
+
+  
+
+<div style="border-style:double;border-color:black;padding:10px">
+
+> Our efforts to influence the future aren't the problem. The problem-the source of all the anxiety-is the need that we feel, from our vantage point here in the present moment, to be able to know that those efforts will prove successful.
+>
+> \- Oliver Burkeman
+
+</div>
+
+  
+
+But trying to control everything about the future is a fool's errand. We can have a strong desire for certain outcomes, for sure. We can craft a good plan to help us achieve those outcomes. Our control over those outcomes, however, is limited. That is one of the core ideas behind the book **Four Thousand Weeks: Time Management for Mortals** by Oliver Burkeman.
+
+  
+
+<figure>
+<img src="https://thisisrajiraj.github.io/posts/images/withdad.jpg" style="max-width: 80%;max-height: 80%;" />
+<figcaption><span class="small">My dad with me the year my mother died</span></figcaption>
+</figure>
+
+  
+
+##### Have you ever pondered what you want from your life?
+
+  
+
+Many of us think that we want to be successful. But what is "success"?
+
+Society often defines success on the surface: how productive you are, how wealthy you are, how big your title is, if your personal life looks like a perfect Regency dance, and so on. And where does that all lead to?
+
+We have a limited amount of time on earth, about four thousand weeks, the average human lifespan. We have limited control over the eternal future of this universe or even the more constrained future of our lifetime. We have limited abilities at the many things we can possibly do with our time here. We can only do a limited number of things at any moment and, cumulatively, in our life. Given all that, the author Oliver Burkeman argues, our best course of action is to fully embrace our limits and still carry on with what we must do.
+
+  
+
+<div style="border-style:double;border-color:black;padding:10px">
+
+> Perhaps most radically of all, seeing and accepting our limited powers over our time can prompt us to question the very idea that time is something you use in the first place. There is an alternative: the unfashionable but powerful notion of letting time use you, approaching life not as an opportunity to implement your predetermined plans for success but as a matter of responding to the needs of your place and your moment in history.
+>
+> \- Oliver Burkeman
+
+</div>
+
+  
+
+Embracing these limits, he proffers, is strangely liberating. When you are not overwhelmed by all the things that you could be doing at any moment, you are fully present for what you're doing and you enjoy it all the more. When you are not worried about how other people in an unknowable future will react, you are free to do your work authentically and bring forth value for the present. When you are not pining for control over uncertain outcomes, you just do the work that needs to be done.
+
+We are always told to NOT accept our limits. Not accepting our limits is at the heart of Growth Mindset. I am a big fan of learning constantly, and Growth Mindset wonderfully appeals to me. I could become a runner only because I didn't limit myself when was in my twenties that I could not be an athlete after being inactive for all those years. I write only because I believe I can continue to improve my writing, no matter where I am at the moment.
+
+But Burkeman's limit-embracing view had a role to play in it too. I know I would never become a world-class sprinter. That is not a goal I could manage along with the other priorities in my life. I don't have a genetic advantage in the sport. I am ok accepting these limits. I know that I will do well in some areas of my life, and in other areas, it is ok to be just average. Mental clarity comes when I can be selective about the pursuits I want to excel at, and not be agitated by my lack of proficiency in or time for others.
+
+This is not a view we often adopt consciously. And *Four Thousand Weeks* asks us do exactly that. We are lucky to be alive. We had little control over most of the things that made us - who our parents were, how they raised us, what opportunities came our way, etc. - and yet we are here and, most of the time, we are just fine. Limited control does not mean an unhappy life. Burkeman drives this point home in a dozen excellent chapters. He goes on to offer a few practical tools and tips on how we can use this philosophy to manage our time better.
+
+  
+
+<div style="border-style:double;border-color:black;padding:10px">
+
+> Once you give up on the unattainable goal of eradicating all your problems, it becomes possible to develop an appreciation for the fact that life just is a process of engaging with problem after problem, giving each one the time it requires-that the presence of problems in your life, in other words, isn't an impediment to a meaningful existence but the very substance of one.
+>
+> \- Oliver Burkeman
+
+</div>
+
+  
+
+I read a lot of books - books that help me with my work, breezy novels that are just entertainment, and everything in between. Every once in a while, I read a book that offers me a different way to look at life. *Four Thousand Weeks* was one such book. Whether you are overwhelmed by the innumerable things you can't get to, or you feel you are not being productive enough, or pondering your life and legacy, or you simply want to get acquainted with a different philosophy of life, I recommend this book. It is one of the best time management books you can read that can also enhance your mental health. It might change your life, or at least how at peace you are with it.

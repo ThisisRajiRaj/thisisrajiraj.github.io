@@ -1,0 +1,97 @@
+---
+layout: post
+title: Notes from a mountain walk
+date: October 29, 2022
+---
+
+Recently we finished a 25-day trek, walking 440 Km across Switzerland. The journey was along a (mostly) well-marked trail Via Alpina 1, through charming villages, and crossing 16 mountain passes. It was a difficult trek, possibly the most difficult thing I have ever done.
+
+  
+
+<div class="container">
+
+<div class="row gy-5">
+
+<div class="videoWrapperOuter col-md-6">
+
+<div class="video-responsive" align="center">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+  
+
+Any journey of such magnitude teaches you a few things. John Muir famously said that in every walk in nature, one receives far more than he seeks. More than the stupendous scenery we walked through, the people we met along the way, the memories we made, I cherish the life lessons I internalized during this trip. Here are three that I want to share with you today.
+
+  
+
+#### Keep one foot in front of another
+
+There were exactly two locations on Via Alpina 1 when I almost broke into tears. In both cases, my problem was the fear of what is to come. A 400+ KM trek up and down Swiss Alps was certainly a daunting journey from the start. When I was on the verge of tears, it was that fear - the fear of how much more I had to do, the worry that what I had done so far, however arduous, was just a drop in the bucket - that inflamed my imagination.
+
+One of those times was on a dismal day when we had walked over a dozen kilometers. The wind was howling in our ears. We were drenched by sheets of driving rain. Our path had taken us on steep rollers. Part of the footpath had turned to muck and dung and the rest of it was waterlogged. Thanks to low clouds that beset us, there was no view for distraction. We had to plod along, keeping our heads down and our jackets braced around us. It was one of the toughest days we had encountered thus far.
+
+I stopped, trembling in the bitter wind. "How much more to go?" I asked with exasperation, "When will we get to the freaking pass?"
+
+I was ready to give up. I might have given up if it had not been for the words that would become my mantra during more such tough moments on our trek.
+
+"We get there when we get there," my partner - who was equally exhausted - told me, as much for me as for himself. "We just need to keep putting one foot in front of another and make progress".
+
+There are many instances where making such slow progress - one foot at a time - is not the way to go. When taking a hammer to the box that traps you is better than chipping at it with a pencil. But, in this case, patience and perseverance were definitely the way to go. I ate a few sweet things from my backpack, swigged some water, and resolved to move. One foot in front of another. I stopped focusing on the future and how much more to go, how many more passes to climb, and how formidable this entire trek was. Gradually we made progress. Not just that day, but enough to complete the entire trek.
+
+You get there when you get there. If you are feeling intimidated by or impatient about whatever it is in front of you - how much more to do with your life, your career, your work; how much more to go before you lose those extra pounds or gain that strength you want; how many more days before your body heals from that illness - stay patient and persevere. Put one metaphoric foot in front of another. You get there when you get here. Trust yourself and your inner strength.
+
+  
+
+#### By helping others, you also help yourself
+
+  
+
+<figure>
+<img src="https://thisisrajiraj.github.io/posts/images/hohturli.jpg" style="max-width: 70%;max-height: 70%;" />
+<figcaption><span class="small">Walking up to Hohtürli</span></figcaption>
+</figure>
+
+  
+
+The day we climbed over one of the toughest passes of the trek - the Hohtürli - we were joined by a gentleman we had met the previous night at our hostel. We had struck up a conversation over dinner. As we ate our filling Rosti and drank from our steaming mugs of chocolate, he told us that he had a debilitating fear of heights. This was worrying because - while there was not a lot of exposure on our route in general - the next section was the highest we would climb to.
+
+So, the next day, as we trekked, we kept an eye on him. He stuck close to us, talking about this and that, and following our lead mostly where the trail became faint. I saw him occasionally get on all fours to crawl through the steepest sections with scary drop-offs. What was remarkable was how much I had stopped thinking about myself and instead thought about him that day: Was he ok? Was the pace too much for him? Should we take a break so he could relax? And so on…
+
+Before starting on Via Alpina 1, there were three sections I had dreaded the most, and the Hohtürli was number one on that list. However, at the end of that day, as I reflected, the pass had not been a scary at all. My heart had become too full with care and concern for another human being that it had forgotten to fear for myself. To me that day was a wonderful one, a successful one, not because I had climbed over the tallest pass on the trek, but because we had helped someone overcome his fear.
+
+Adam Grant in his book Give and Take says, "the more I help out, the more successful I become. But I measure success in what it has done for the people around me. That is the real accolade." That day was a good reminder that helping people takes you out of the limited cardboard box of caring about yourself. It makes you more expansive and happier. It empowers others to become more expansive and happier. What other reason do we need to help our fellow beings more?
+
+  
+
+#### Simplify and declutter your life
+
+When I go on these backpacking trips, I am reminded of how little I need to live happily. All I live off of, for those few days, is whatever I carry in my backpack. My life becomes extremely simplified. There is no TV remote to lose, no plumbing to fix, no loads of laundry to do, no email to clear. More importantly, there are no worries about work or about what someone else is thinking or not thinking about you. There is just what I need to stay warm, fed, watered, and clean. There is a wondrous sense of freedom in that simplicity.
+
+Of course, cutting out \*all\* of your life clutter is likely to be only a temporary thing. There is a tenet in Indian philosophy that such withdrawal from everything cannot make you a permanently happier or a better person. It is by learning how to manage your mind in the middle of all your mental, emotional, and societal clutter that you can achieve lasting peace. But such breaks in nature, however brief they are, remind you of how little you need and really need to strive for in life. If you can find happiness in little, then do you really need that fancy job, that fancy house, that fancy car?
+
+  
+
+<figure>
+<img src="https://thisisrajiraj.github.io/posts/images/starlittannalp.jpg" style="max-width: 70%;max-height: 70%;" />
+<figcaption><span class="small">Milky way from Berggasthaus Tannalp</span></figcaption>
+</figure>
+
+  
+
+Being in nature, staring at the glory of the milky way in a darkened sky, being astounded by lofty peaks and cascading glaciers, you feel humbled and grounded. When you get away and walk in nature for a while, you come back to whatever you are grappling with bearing fresh perspectives. You get to reframe and solve problems in unique ways you had not thought of before. I have seen this happen to me time and again. So, if you can take a break in nature, even if for just a few hours if not a few days, do so. It is therapeutic and energizing.
+
+For more on our journey along Via Alpina 1, check out [this playlist of videos I recorded from the trip](https://youtube.com/playlist?list=PLLnaVlA38jRK4jSRcjLR1f53qIDPTb2TO).
+
+<div class="videoWrapperOuter">
+
+<div class="video-responsive" align="center">
+
+</div>
+
+</div>

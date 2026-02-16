@@ -1,0 +1,45 @@
+---
+layout: post
+title: Care for your mind
+date: Oct 09, 2021
+---
+
+Have you ever felt your heart race like it would burst out of your body, your breath getting caught in your throat, your back becoming unexplainably stiff, and an ever-present sense of fatigue and being annoyed?
+
+These are some physiological symptoms of stress. You see stress everywhere these days: among children, teenagers, overworked caretakers, and most definitely in our workplaces. The Oxford dictionary defines stress as "a state of mental or emotional strain resulting from adverse or very demanding circumstances". Certain amount of it, you can argue, is beneficial. Circumstances that demand a lot out of you can help you grow - grow new skills, become more self-aware, and build relationships. But most stress we feel is not of this kind. It is of a more negative, destructive kind.
+
+A lot of us work in professions where the stakes are high or the expectations - from ourselves and from others - are astronomical. In the last two years, these stressors have multiplied. With our work-life defined by incessant virtual meetings, our caretaking workloads increasing, and multiple crises raging around the world, more people than ever are edging closer to burnout. Professor Anthony Klotz coined the term ["The Great Resignation"](https://en.wikipedia.org/wiki/Great_Resignation) to refer to the unprecedented turnover he predicted (and we are starting to see now) in the business world post-pandemic. Using data from hundreds of interviews, he found that one of the biggest reasons for this exodus is the unbearably high workloads that people are no longer willing to tolerate.
+
+I am not surprised. Many people I know and mentor struggle with such high workloads and the attendant stress. I am no stranger to stress myself. Stress has been my constant companion for years now. Just like how one learns to deftly navigate around their loved one's quirks, I have developed my ways around stress. I have created daily practices for myself to deal with my physiological and emotional responses to it. Here are three of them.
+
+1\. **I practice conscious breathing.** When I feel overwhelmed, I stop what I am doing, place my feet on the floor and my hands on my lap, and take deep breaths. Inhaling for a count of four, exhaling for a count of six, and continuing for five minutes. I also have a timer on my phone that chimes once every hour reminding me to take a few deep breaths.
+
+2\. **I try to be physically active most days of the week.** The freedom to be outside and breathe in fresh air is such a gift. Just lifting your gaze to see the vastness of the sky, to pay attention to the crispness of a leaf in the fall or the cool touch of a breeze, while feeling your blood course through your body can take your mind off your immediate problems.
+
+3\. **I make something with my hands.** Creating things is joyful. When I feel low or stressed, the quickest way for me to snap out of it is to make something: cut tomatoes and onions and make a curry, write something for myself, or go to my backyard and take a picture.
+
+The last couple of years, though, have put my rituals and practices through the wringer. This became obvious during my last visit to my neighborhood Planned Parenthood clinic.
+
+  
+
+<div align="center" style="border-style:double;border-color:black;padding:10px">
+
+> Sometimes it takes a wake-up call, doesn't it, to alert us to the fact that we're hurrying through our lives instead of actually living them; that we're living the fast life instead of the good life. And I think, for many people, that wake-up call takes the form of an illness.
+>
+> -- Carl Honore, In praise of slowness
+
+</div>
+
+  
+
+I was there to renew a prescription. I was waiting in a small room lit with harsh blue light and smelling of hand sanitizer. As the nurse walked in with the blood pressure machine, I suspected my numbers to be higher than usual: I had just gotten off a tense Teams call before driving over. But I was not expecting the numbers to be so high that the doctor refused to renew my prescription. I was half dismayed and half shaken by this news. My mother had died when she was just thirty-two from a mysterious cardiac illness. Even though my blood pressure numbers were nowhere near dangerous, I felt rattled.
+
+In the next few weeks, something else rattled me even more. Arianna Huffington in her excellent book Thrive talks about the ease with which big crises can sweep away all the trivial ones that, moments before, had seemed enormous. Without getting into details for the sake of privacy, this summer, we had a huge health crisis for someone I love dearly. We took tests and more tests. We consulted with doctors. Health care is not one-click buying for sure, and there was to be no instant gratification. We had to wait. The moments I spent waiting were confusing and agonizing. Hopelessness and anxiety danced at my threshold like phantoms. I had never been so scared in my life.
+
+I had also never known as much relief as I did when we finally got good news, and we felt like we might be out of the woods.
+
+This crisis had not been kind to my physiological state. Alongside pandemic-related news from home and adjusting to 100% remote work, it had created a perfect storm. I knew I had to double down on taking care of my mental health. I remembered how my strong, kind, and resilient father had always weathered such storms by deepening his faith. Without such strong belief, I had to find other ways to cope with my anxieties. I signed up for classes about well-being online. [I read books](http://rajiraj.com/blog/anxiety). I took a [two-week break to disconnect](http://rajiraj.com/blog/iceland) from everything, to slow down and simplify my life. I meditated more. I took advantage of a benefit offered to all Microsoft employees and enrolled for [a 12-week mental health program](https://www.meruhealth.com/).
+
+I started feeling calmer. My blood pressure began to respond. I felt re-energized and centered despite the uncomfortable circumstances still around me. You can never get rid of everything that stresses you. If you aspire to have a full life, if you dream big, if you love someone, you will undoubtedly find yourself in situations that daunt you. You will feel uncomfortable, and that could cause stress. Quantum mechanics says that uncertainty is a fundamental property of our universe - you can never be sure of everything. Your life will take you on its turns and detours. You will endure many crises. The best you can do to be prepared for all of it is to get some tools in your toolkit to take care of your mental health. Just as I descale my coffee machine regularly and floss my teeth every day, I need to pay attention to my mind.
+
+One in ten people around the world have reported mental health problems. There are several more with issues that go unreported and undiagnosed. Of the reported cases, depression and anxiety are the top two problems. People didn't talk about mental health when I was growing up. If you felt turbulence in your life, you were expected to just sail through it. Even today, so many of us do not talk about or care for our mental health. We suffer in silence until we can't anymore. You shouldn't need a crisis to prioritize your mind. Whether it is talking to a therapist or reading Marcus Aurelius or lighting candles in your room or calling up a friend to chat or sharing your story with others, find what works for you. Do it often, and do it starting today. There is nothing more important than caring for that which keeps you going. \#WorldMentalHealthDay

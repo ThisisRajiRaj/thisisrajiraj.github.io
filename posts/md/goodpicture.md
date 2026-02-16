@@ -1,0 +1,37 @@
+---
+layout: post
+title: Serendipity vs. preparation
+date: January 23, 2022
+---
+
+I love low-light photography. The quality of natural light at the right time of day, when the sun is at a low enough angle to light my subjects softly, is just magical. The pictures in this post were taken last weekend in Cannon Beach, Oregon, when we got possibly the most spectacular sunset I had ever seen. The sky dazzled with blues and pinks and oranges. I ended up that night with some of the best pictures I have taken ever since I took up photography as a hobby.
+
+But there is more to these pictures than what you see. Here are a few things you DO NOT see:  
+
+1.  I had previously read books, followed other photographers, and watched videos to learn the camera work needed for low-light photography and good composition.
+
+2.  I had researched the previous day online for the best spots for sunsets on the OR coast. I had picked the Haystack Rock as where I’d be that evening.
+
+3.  We had driven to the beach earlier in the day to scope out the area for different photography angles.
+
+4.  I had come back to the rock an hour before sunset, dressed in multiple layers and a beanie and gloves, so that I could assess the type of light and the position of tides.
+
+5.  I had foregone the other delightful options that evening to just sit on a blanket and read a book or take in the sunset in the arms of my partner.
+
+6.  I had walked around in cold January seaside weather, lugging my camera and my tripod for an hour and a half, shooting several pictures. Another photographer I met had come even more prepared: he was wearing wellies.
+
+7.  Dozens of these pictures ended up being dull. Only a couple did the grand show of light the justice it deserved.
+
+  
+
+<figure>
+<img src="https://thisisrajiraj.github.io/posts/images/beingyou.jpg" style="max-width: 80%;max-height: 80%;" />
+</figure>
+
+  
+
+Sometimes you get good things in life because you are in the right place at the right time. Most times, though, you work to steer yourself into that place at that exact time. In the case of these pictures, serendipity did play a role. The sunset that day was just astonishing and I couldn't have planned for it. But preparation, vision, passion, determination, an ability to put up with discomfort, prioritization, and a stomach for failure were all part of it too…just like they are part of many opportunities and successes we have in our lives. Often, we see just the things that are visible to us and get misled by how easy someone's success might look. It is important to peel back the layers to understand everything that truly went into it.  
+
+For those interested in the technical details of the pictures: The picture of the Haystack rock swathed in golden light was taken at 5:02pm at f14, ISO 100, and 1/320 seconds shutter speed. The photo of the stunningly blue and pink sunset with the tide moving back into the ocean was taken at 6:10pm at f22, ISO 50, and 3.2 seconds shutter speed. The photos were captured with Sony a7c and Tamron 28-70mm zoom lens and processed using Adobe Lightroom on Windows 11.
+
+For all the pictures from the trip in full resolution, go to my [Adobe Portfolio site](https://rajiraj.myportfolio.com/seaside-or-2022).

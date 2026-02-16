@@ -1,0 +1,56 @@
+---
+layout: post
+title: Astrophotography lessons
+date: December 24, 2021
+---
+
+Couple of weeks ago, I did something that I am very proud of. I learned a new skill - taking pictures of night skies flecked with trillions of stars.
+
+This is not a trivial exercise for various reasons. For one thing, you need to have the right equipment: a camera with the appropriate aperture and shutter speeds, and a tripod. For another, it is best to have some experience with manual photography. But most importantly, you need to be at the right location. A place far enough away from civilization that light pollution doesn't tamper with your images.
+
+In the second week of December, we traveled to Joshua Tree National Park and a town called Julian in Southern California. These places boasted crystal-clear skies not touched by the lights of their surrounding communities. I had been a landscape photographer, shooting images in manual mode, since 2009. Just recently, I had purchased a tripod. So, now I had all the pre-requisites at my disposal for astrophotography.
+
+Our first night in Julian, after dinner, we drove through a valley that was as quiet as it was dark. There was minimal traffic. When I rolled down the window and poked my head out, I felt a crisp breeze. I tilted my head up and saw a veritable fête of stars above. We pulled over, I mounted my camera on my tripod, and pointed the lens up. I knew I had to have a long exposure to capture as much of the light from the stars as I could. In my naivete, I simply assumed that slower was better and picked the slowest shutter speed I had on my camera outside of BULB. I took several pictures.
+
+  
+
+<figure>
+<img src="https://thisisrajiraj.github.io/posts/images/starlitbad.jpg" style="max-width: 80%;max-height: 80%;" />
+<figcaption>One of my sh*tty drafts from attempt #1. Shot at f2.8, 28mm, 30 secs shutter speed, ISO 2500</figcaption>
+</figure>
+
+When I came back to the hotel and downloaded the images to my PC, I was disappointed. I could see that my images were uninspiring, and my composition was off. There was no reference point - like the silhouette of a mountain range or a tree in the foreground - that could make the images more interesting and meaningful. Instead, my images were indistinguishable from an arbitrary black canvas with white specks on it.
+
+When I went back out the next night, I knew I had to tweak my composition. My images needed a beginning, a middle, and an end; a subject that the viewer's mind could fathom because it had some context around it.
+
+My subject was, of course, the infinity of the starlit sky, but what would give it meaning was the lonely valley I was standing in. Once the sky grew sufficiently dark, I looked for foreground objects that could tell such a story. I experimented with different angles and foreground interests until I got a few shots that looked just right on the camera viewfinder.
+
+When I looked at these images again in the quiet and leisure of my hotel room, I was once again dissatisfied. The stars didn't look like the blazing pinpricks on a dark sky that I had wanted. My camera was sensitive to the minutest light pollution in the valley and had captured that noise. My images looked hazy. The stars appeared shaken, thanks to the trails created by the rotation of the earth. My imagination could correct the flaws in my composition, but I now needed some serious technical knowledge. I read online on how I should set up my camera for the best results. I learned about the [Rule of 500](https://astrobackyard.com/the-500-rule/), the effect of different drive modes on the sharpness of the image, and what ISO might be ideal.
+
+  
+
+<figure>
+<img src="https://thisisrajiraj.github.io/posts/images/starlitbad2.jpg" style="max-width: 80%;max-height: 80%;" />
+<figcaption>One of my sh*tty drafts from attempt #2. Shot at f2.8, 28mm, 20 secs shutter speed, ISO 1600</figcaption>
+</figure>
+
+The next night, before going out, I changed the settings on my camera based on what I had learned. I put my camera in manual shooting mode, set the white balance to auto and the shutter speed to between 12 and 17 seconds. With the largest aperture on my camera (f2.8), I adjusted the ISO to get the right exposure. I changed the drive mode to a 10-second timer to avoid unintended shakes. Out in the same secluded stretch of the road again, I mounted my camera on the tripod, a mountain ridge in the foreground, and went to town on the shutter release.
+
+Finally, my efforts yielded a few good pictures. Here is one of them. It is still not perfect, but a much improved version - I feel - from where I began.
+
+  
+
+<figure>
+<img src="https://thisisrajiraj.github.io/posts/images/starlit3.jpg" style="max-width: 80%;max-height: 80%;" />
+<figcaption>Starlit sky in Joshua Tree National Park. Shot at f2.8, 28mm, 13 secs shutter speed, ISO 4000</figcaption>
+</figure>
+
+So, we come to the the first thing about this story that I want to highlight. At the end of my three days of tinkering, I only got two or three images that I thought worked well. **Patience and a strong stomach for "failure" are indeed virtues in anything worth learning and pursuing.** I could have given up after my second unsuccessful night of shooting, but persisting meant that I gave myself the opportunity to improve and create something that I can now cherish.
+
+Secondly, **behind every work that appears good - a well-written novel, an impeccable picture, an elegant library of code, a perfect musical score - there are many sh\*tty drafts.** Lots of times, creators do not share their sh\*tty drafts with the world, but they exist and are a prerequisite for more refined work.
+
+And lastly, imagination helps you bring your signature to your work and solve problems that have never been solved before. **But leveraging exsiting knowledge is just as important.** While I used my imagination to tinker with my storytelling, the knowledge about the right shutter speeds was key to getting good images on my attempt \#3. Granted, I could have arrived at all of that knowledge by myself, but why not "stand on the shoulders of giants that have come before us", those that have uncovered vital knowledge already? Whether it is using known equations as building blocks for your scientific research or using StackOverflow to write parts of your code, building on others' work can help you achieve more things faster.
+
+The mathematician-philosopher, Bertrand Russell, once said that "The good life is one inspired by love and guided by knowledge". Einstein argued that imagination is more important than knowledge. I find that both imagination and knowledge are needed to solve problems and learn new things. A good life is inspired by love, guided by knowledge, and ignited by imagination.
+
+Click [here](https://rajiraj.com/blog/break) to read more about my trip to Southern California and [here](https://adobe.ly/3oYxJNd) to check out the entire album from the trip in full resolution.

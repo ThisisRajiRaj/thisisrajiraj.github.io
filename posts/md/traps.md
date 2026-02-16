@@ -1,0 +1,55 @@
+---
+layout: post
+title: Nine Thinking Traps
+date: January 2, 2022
+---
+
+It was the summer of 2018. I had been asked to present some demos at a keynote at Microsoft Inspire. Microsoft Inspire is a massive conference that welcomes over 10,000 attendees every year, most of them IT Professionals, Software Vendors, and System Integrators for big enterprises.
+
+Over 10,000 at the T-Mobile Arena in Las Vegas and close to a million viewers online. I had never spoken in front of such an enormous audience before. So far, my presentations had been in small rooms of a dozen people or in medium-sized All-Hands of around 100 of my own team. I had no clue how to scale up to this size of an audience.
+
+Thankfully, Microsoft came to my rescue. Once I said yes (with trepidation dancing in the back of my head), the team responsible for the keynote put me through some rigorous training. I got a ton of feedback and made a number of changes to my script. Finally, the big day arrived.
+
+My demo was supposed to last 30 minutes, cycling through many of the offerings in the Microsoft 365 portfolio. I got on stage, energy in my stomach jumping around like overactive molecules in boiling water. The greenroom felt cold. The stage, colder. The blue light shining down on me on felt blinding. I couldn't see the audience, not even my friends who were eagerly applauding from the front row. I began my demo.
+
+As I was in the middle of it, walking through a script that I had rehearsed many times before, I knew something was off. The buttons I was expecting on the screen were not there! I had no clue where these buttons had gone off to, and I needed to click on them to flow through my demo. (I learned later that the team had deployed a new version of the code to production.) I stumbled over my words and started to sweat. I could sense over 20,000 eyeballs on me. I felt I was hurtling toward disaster. This was not the smooth landing I had hoped for. I handwaved through the next steps and ended my demo.
+
+I got off the stage and walked to the backroom. As I was walking, a series of thoughts circled through my head: everyone in my leadership likely saw what a bad job I did and was thinking poorly of me; why did I even sign up to this, I was never going to be a great presenter; my entire demo was such a fiasco. And on and on.
+
+When I saw my demo team in the backstage, my shoulders drooped. I told them I was sorry for failing them. What I was met with in return were stares of puzzlement. Turned out, no one had really realized that anything was off, except me. They had all felt that the demo had gone great. When I opened up Outlook on my phone, I saw many notes of congratulations from my colleagues who all said they had loved seeing me on stage and the storytelling. So, why was I so off in my perception of the presentation compared to almost everyone else?
+
+That's because I had just fallen prey to what psychologists call "Thinking Traps". As part of a recent stress management program I undertook through Microsoft benefits, I learned about nine of them.
+
+1\. **Fortune telling**: This is when you predict the future, with a strong negative bias. E.g.: "I'll never be a good presenter".
+
+2\. **Black and white thinking**: This is also called "all or nothing thinking" - something is either all good or all bad. E.g.: "I made two mistakes in that presentation. It was a disaster".
+
+3\. **Mind reading**: Humans - like few other organisms - can try and guess the contents of minds that are not their own. But often we guess wrong. E.g.: "They think I am not a good presenter".
+
+4\. **Over-generalization**: We tend to take one incident and make something about that all-pervasive or permanent about our lives. E.g.: "I always screw up in presentations"
+
+5\. **Labeling**: This is the tendency to attribute overarching character traits based on specific incidents or behaviors. E.g.: "I made two mistakes in one presentation. I am such a bad presenter".
+
+6\. **Overestimating danger**: When we take a molehill, build it up into a mountain, and worry for our security, we are falling into this trap. E.g.: "I did a poor job in my talk. I am going to lose my reputation and get fired".
+
+7\. **Negative filtering**: Many of us have a predilection for the negative. We zone in on critical feedback and obsess over it 10 times more than praise. We disregard the positives about a situation and fret about the negatives. E.g.: "Everyone was bored. I saw three people in the audience looking at their phones".
+
+8\. **Catastrophizing**: Sometimes, when we make small errors, our minds can mislead us to imagine the worst case. E.g.: "Now I went and did it. One day I am going to be an utter failure living under a bridge".
+
+9\. **Should and Must statements**: Our lives overflow with "should's" and "must's". We rarely question these and try to satisfy them, almost on autopilot. E.g.: "I should always be on and always do a perfect job"
+
+On that sweltering summer day in Las Vegas, I was guilty of at least \#2, \#3, \#4, \#6, \#7, and \#9 on that list.
+
+  
+
+<div style="border-style:double;border-color:black;padding:10px">
+
+> “Everything that we perceive - consciously or unconsciously - is a construction of the brain.”
+>
+> -- Anil Seth, Neuroscientist and author of "Being You"
+
+</div>
+
+  
+
+Knowing about these traps helps us reason over our own automatic thinking patterns. This means that we can now stop ourselves when we get sucked into behaviors that are no good for our mental wellbeing. Stopping and wondering if we are falling into any of these traps short-circuits the default-mode network that drags us into behaviors that we are hardly conscious of. When Descartes said in the 16<sup>th</sup> century "I think, therefore I am", he didn't have the background that neuroscientists and psychologists have today. We now know from science our brains construct our reality for us. It is therefore super useful to be aware of traps in our thinking so there is a chance of perceiving the world closer to reality.

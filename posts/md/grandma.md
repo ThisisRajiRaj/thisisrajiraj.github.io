@@ -1,0 +1,50 @@
+---
+layout: post
+title: Goodbye, Grandma
+date: June 2, 2019
+---
+
+<div classname="blog-content">
+
+<div classname="paragraph">
+
+<span style="color: rgb(42, 42, 42);">On June 1 2019, at 11:51pm I had received a WhatsApp message from my dad. "Patti is no more", it said.</span>  
+  
+<span style="color: rgb(42, 42, 42);">My grandma had passed away when I was asleep.</span>
+
+</div>
+
+<div>
+
+<div classname="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
+
+<img src="http://rajigopal.weebly.com/uploads/1/1/8/5/118592459/p84.png" style="width:auto;max-width:100%" alt="Picture" />
+
+<div style="display:block;font-size:90%">
+
+</div>
+
+</div>
+
+</div>
+
+<div classname="paragraph">
+
+  
+My grandma was 93 when she died. She had lived through a world war, the Indian independence movement, an Emergency period in the country, the assassination of two of our prime ministers, and an Information revolution that took almost all her grandchildren away from her to far-flung places.   
+  
+Grandma raised me after my mother died, at least during the years when I lived in my dad's house. In those days, especially on tropical summer afternoons, when we would try to take naps together, I would ask her to tell me stories from her past.  
+  
+My grandma told me stories that sounded alien to me, living in a flat in the middle of a crowded metropolis in more modern times, Her stories featured <a href="https://en.wikipedia.org/wiki/Punkah" target="_blank">punkahs</a>, and cows she milked every morning in our backyard. She told me of her beautiful aunt Bhararthi, who was kept cloistered in a room after she lost her husband at age 12. She told me stories from the paddy fields we used to own in South Tamil Nadu.  
+  
+Grandma, with her penchant to flout rules, used to be friends with the fieldworkers. They would come to her house, all sweaty, bringing us bags of rice. She would talk to them, feed them, and then help them haul those rice bags into our granary. I could imagine a young skinny grandma, hauling heavy bags of rice alongside men. What strength she had!  
+  
+Grandma had always been a strong woman. She was married when was 13 (those were the days of child marriage!) Grandpa was not particularly strong or vocal. So when we lost everything - including our paddy fields - in family disputes, it was grandma who stuck up for the family. It was grandma who worked day and night to educate her three children. It was grandma who, thanks to her no-nonsense inner strength, picked our family up from the laps of poverty and helped us become who we are today..  
+  
+Grandma named me after the goddess of courage. She showed me that a woman could be bold and strong. She showed me that one has a great capacity for physical and mental work.  
+  
+My grandma touched so many lives when she lived. Today we mourn her, but her memory and her strength will continue to inspire us for the rest of our lives.
+
+</div>
+
+</div>

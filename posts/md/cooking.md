@@ -1,0 +1,32 @@
+---
+layout: post
+title: Work that inspires you
+date: February 25, 2022
+---
+
+There is a set of standard formulas for most Indian recipes. Let's with one of the simplest curries you can make - *yellow dal tadka*. You sauté chopped onions on a sizzling stove, add diced tomatoes and fry them together, fragrant steam rising off the hot pan and the juices of tomatoes sputtering on the surface. Then you add lentils, water, turmeric, chili powder, salt. If you have aromatics - like cumin powder or coriander powder - this is a good time to add them too. Then you cook the lentils until they turn soft. You could now garnish the dish with some lemon juice and roasted seasonings like garam masala, red chilies, mustard seeds and cumin seeds.
+
+If you want to make *channa masala* - a tangy and spicy chickpea curry - it is very much the same recipe. Start with a base of sauteed onions and tomatoes. Then add turmeric for color, chilli powder for heat. Some salt and masalas. Cook the beans and garnish at the end. There is always something for saltiness, something for tang, something for spice, and something for aroma. Some veggies and protein, and you are done. There is an order in which the ingredients have to go in too. Start with the onions and tomatoes first and sauté them well before anything else, for example.
+
+It was my mother-in-law who taught me that there is a method to Indian cooking. Indian cuisine - like, I am guessing, other cuisines too - is not just a smorgasbord of random, disparate recipes. There is a technique to it, and it was my mother-in-law who showed me that secret. She taught me systems, optimizations, and formulas. She helped me understand how to sequence my cooking so that I would end up with the fewest number of utensils to wash after. She taught me how to parallel-process when I cooked: what I should start cooking on the stove as I took time to wash and peel and chop veggies. She taught me that adding was easier than subtracting; you could add more salt to a dish afterward but taking out excess was more difficult. She taught me that dishes had a handful of templates that you could customize with different veggies and beans.
+
+My mother-in-law was a teacher by profession. She taught me the fundamentals first, and she taught me well.
+
+  
+
+<figure>
+<img src="https://thisisrajiraj.github.io/posts/images/annanagarkitchen.jpg" style="max-width: 80%;max-height: 60%;" />
+<figcaption><span class="small">My mother-in-law in her kitchen where I learned to cook</span></figcaption>
+</figure>
+
+  
+
+Today, after a hard day's work, I love getting in the warmth of my kitchen. I light a few lemon-scented candles on my countertop, take out my chef's knife and my cutting board. I turn on some Eric Satie on our speakers. As I begin to peel the dry orange skin of carrots and chop onions into tiny pieces, their pungent juices tickling my nostrils, I begin to breathe slow and easy. I feel the roughness of the potatoes I wash in my hands. I smell the earthiness of the cilantro as I chop it. Cooking, to me, is therapeutic. It is an art. As I assemble my dish, I sometimes let my mind wander freely. Free of recipes and accumulated knowledge. I experiments with herbs and ingredients, things I feel would enhance flavors even though I don't know for sure. In that way, cooking is like writing or painting. You start writing words on a page, not knowing yet where your pen will take you. You dip your paintbrush into pots of color without fully knowing what the product will look like. But I also know - subliminally now - what my mother-in-law taught me about systems and sequences and optimizations. I work methodically, in a way that would make my mother-in-law proud.
+
+Cooking is also very much like coding or photography or leadership. There is so much art in each of them. A lot of what you do is instinctive, drawn from your subconscious, from your inner well of creativity. But there is also a lot of "science" behind them. My mother-in-law passed on to me some of the science behind cooking. Coding has its patterns and anti-patterns that get passed on (and discovered with every new paradigm of expression) as well. But if you give two engineers the same problem to solve, the odds are that they will solve it in slightly - and sometimes not so slightly - different ways. Coding is an art AND a science. There are a ton of dos and don'ts you get taught in leadership, but you discover very soon as a leader that leadership is indeed an art.
+
+And that's what I love about all these endeavors. A good dish - like good code, good photography, and good leadership - is part art and part science. Part logic, part intuition. This is what makes them all challenging as well as interesting. You use systems and known formulas, but also a dash of creativity to produce work that is beautiful, elegant, and functional.
+
+Cooking has been a gendered role where I grew up. So I resisted it for much of my early life. But I have also realized there is a lot of joy and lot of a cerebral work in it. The kitchen is not often seen as the place to exercise your analytical powers. Likewise, coding - an intensely logical endeavor - is not often seen as the place to use your creative talents. But that is the beauty and - to me - the attraction of these activities.
+
+Work that makes you happy is work in which you can use multiple faculties of the brain. It is work that brings you joy, is valuable, and takes you out of the stresses of the world. To me, I get to use both analytical and intuitive faculties in the work I enjoy doing - whether is coding, management, cooking, writing, or photography. What about you? What work uses more than one of your skills? What work inspires you?

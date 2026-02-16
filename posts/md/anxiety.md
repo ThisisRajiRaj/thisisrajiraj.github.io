@@ -1,0 +1,85 @@
+---
+layout: post
+title: Notes on well-being
+date: June 03, 2021
+---
+
+These last few months have felt like a slog. News from India - where much of my family lives - has been agonizing. I have woken up in the middle of many nights, unable to fall back asleep, tossing and turning, thinking about all the different ways things can go bad. What if my father becomes sick? How can I go home and take care of him? Who will take my frail mother-in-law to the vaccination center? In fact, where can she find a vaccine? Will my aunt, who is in the ICU, survive? Did I make a mistake moving thousands of miles of away from so many of my loved ones?
+
+My mind would often fill with these dark anxieties - like heavy clouds. When these thoughts entered my head, they would circle incessantly, gathering mass, making my head hurt, my heart beat fast, and my entire body fill with a warm sense of dread.
+
+I have a habit of turning to books and classes whenever I have a particularly tough challenge that I need information on. I have been reading many books and attending courses that teach me about mental health, self-care, and well-being. Here are some that I have read or watched or listened to.
+
+[The science of well-being](https://www.coursera.org/learn/the-science-of-well-being) by Laurie Santos
+
+[Learned optimism](https://www.amazon.com/dp/B079RLWT1N/) by Martin Seligman
+
+[Freeing yourself from anxiety](https://www.amazon.com/dp/B06XCHW4Z1/) by Tamar E. Chansky
+
+[The midnight library](https://www.amazon.com/dp/B08543NK7K/) by Matt Haig
+
+[Mindwise](https://www.amazon.com/Mindwise-Misunderstand-Others-Think-Believe-ebook/dp/B00EMXBCZS) by Nick Epley
+
+The first thing I realized from all this learning is **how much my well-being depends on the state of my mind.** Psychologist Sonja Lyubomirsky says that our happiness depends 50% on our genes (everyone starts off at a genetic happiness setpoint that makes us more, or less, happy), 10% on our life circumstances, and 40% on our thoughts and actions. The last 40% - our thoughts and actions - is what we have most control over.
+
+John Milton was right when he said that the mind can make a hell out of heaven or a heaven out of hell. One way our mind does that is by incessantly wandering. **We flit away from reality frequently.** Studies have found that people spend close to 50% of their waking hours thinking about something other than what they are working on. I may be sitting here, listening to my husband saying something about his day, all the while living in a different place and a different time. Whether we are working or watching TV or meditating, our mind wanders a lot.
+
+  
+
+<div align="center" style="border-style:double;border-color:black;padding:10px">
+
+> "A human mind is a wandering mind, and a wandering mind is an unhappy mind." - Daniel Gilbert
+
+</div>
+
+  
+
+To gain better mental health, we need to learn how to train our wandering mind.
+
+When our minds wander, and especially during stressful times, we usually think about three things that take us away from the reality of the present moment.
+
+1- The Past,
+
+2- The Future, and
+
+3- Others
+
+  
+
+##### The past
+
+Thinking about the past is classic rumination. We play a movie in our head that feels like a replay of a past event. We go over something in great detail, picking apart interactions self-consciously, mentally reviewing everything we did or didn't do. Most insidiously, we agonize over past failures and screw-ups, feeling pangs of regret.
+
+**My recent learning has helped me remember that the past - like the future - is a figment that your brain constructs out of your memory.** It is no longer real. Living in the past is like making a nest out of a cobweb. The only reality available to you is the present moment.
+
+  
+
+##### The future
+
+If my mind is not dwelling on the past, it ceaselessly computes the future. How would I feel if this happens and then this and then this? How should I react and weatherproof?
+
+Humans are perhaps the only animals that have the cognitive capacity to imagine our futures. Imagining our futures can be wonderful. It can help us create better lives for ourselves, give us hope to escape crushing situations, help us build a better world. But it can also hamper us by inaccurately warning us of calamities ahead. One reminder that I find valuable is this: **no one really knows the future**. The future is full of possibilities and options and forks in the road that lead to different unknowable places.
+
+Thoughts about the future are a figment of the imagination. Our imagined futures are shaped predominantly by our past experiences. Martin Seligman, the father of Positive Psychology, talks about different explanatory styles humans have, and how they shape our mentally constructed futures. If one explains her past negative events as "temporary setbacks that affect a small area of her life and are caused by circumstances", she is bound to be more optimistic. If instead she explains them as "permanent failures, pervading her whole life, and caused by a personal flaw", she is bound to create a hopeless future. **Dispute the explanations that naturally surface in your head. Turn them from pessimistic to optimistic.** Remember that you can ford the stream when you get there. There is no use in worrying about it now.
+
+<div align="center" style="border-style:double;border-color:black;padding:10px">
+
+> "I've lived through some terrible things in my life, some of which actually happened." - Mark Twain
+
+</div>
+
+  
+
+##### Others
+
+We are social animals, and so a lot of our anxieties reference others. Some of these anxieties fall into the past and future ruminations I mentioned above. And some are comparisons and thoughts about what others think about us. It is helpful to remember what Nick Epley writes about in his book: **you are likely wrong when you mind-read others**. Others are not thinking about you as much as you think about yourself, your conclusions about their perspectives could be way off the mark, and there is a lot more in common between humans than the differences we tend to imagine. The best way to learn what others think about you or something you did or didn't do is to ask them, not imagine their perspective.
+
+The course *The Science of Well-being* **recommends keeping a gratitude journal where you list 5 things you are grateful for every week.** I have started doing this myself and the exercise gives me great joy. In my journal, I have so far listed: waking up without any aches in my body, having a job that gives me the freedom to go for a run in the middle of the day, my father, my team, the cloudless blue sky that takes me out of myself, the warmth of my teacup, the trilling chickadee on the tree in my backyard….
+
+  
+
+Though I still feel angst about my family, the books and courses I mentioned have helped. They contain much more wisdom and practical ideas than what I've shared, so check them out if you are interested.
+
+These few months - with a pandemic raging globally - have been riddled with many moments of anxiety. But moments of anxiety are not alien to anyone who works in any high-octane profession. High expectations on oneself, too many things to do, fear of looking bad, a tendency to catastrophize missteps - all of these can cause anxiety.
+
+We often neglect self-care and mental health in our busy lives. As a mentor recently reminded me, the best thing one can do now is to put on their own oxygen mask first. To do so, I read uplifting books, go on nature walks, meditate every day, remember to breath deep often, connect with my family, and strive to keep my baseline stress low. What are you doing for your mental health and well-being?

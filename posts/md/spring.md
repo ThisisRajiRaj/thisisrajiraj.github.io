@@ -1,0 +1,36 @@
+---
+layout: post
+title: What man has made of man
+date: March 20, 2021
+---
+
+<div align="left" style="border-style:double;border-color:black;padding:10px">
+
+> "The budding twigs spread out their fan,  
+> To catch the breezy air;  
+> And I must think, do all I can,  
+> That there was pleasure there.  
+> If this belief from heaven be sent,  
+> If such be Nature's holy plan,  
+> Have I not reason to lament  
+> What man has made of man?"  
+>
+> \- *Lines written in early spring*, William Wordsworth
+
+</div>
+
+  
+
+Sometimes I listen to music when I run. Most times though, I listen to audiobooks or to podcasts. Today, what I had on was the New York Times' *The Daily* podcast. I was listening to a few episodes on the war in Ukraine.
+
+Spring was all around me. The air was clean from yesterday's torrential rain. It was slighly chilly, but not cold. Vibrant greenery had appeared out of nowhere. Forlorn branches had sprouted young leaves again. The stream by my running trail was full. Canada geese and mallard ducks were lounging by its side. There were flowers everywhere, of many colors. Pinks and purples and reds and yellows.
+
+When running, especially at my slow pace, one can really pay attention to nature. As I breathed the crisp air and saw the hopeful signs of spring around me, I was struck by the stark contrast of what I was seeing and what I was hearing.
+
+The podcast episode I was listening to was about a photo of a family that had been brutally killed in Ukraine by the Russian attacks. Two children and their mother dead on a street, their luggage and toys scattered and streaked with blood. Their distraught father, who had survived, visiting their corpses in the mortuary. The episode was about one family. But the story of that family holds up to the light the situation for many such families fleeing Ukraine. It was dark. It was heartbreaking. It made me despair for this world.
+
+War is not new to humanity. And of course, battles are being fought in many parts of the world today, hardly eliciting a mention in the international press. But when the world teeters on the brink of another disastrous World War, when we are reminded constantly of the possibility of nuclear annihilation, it is hard not to wonder why we humans do this to ourselves over and over and over. Why - with all our cerebral powers, our ability to reflect on the past and shape the future - we don't build a better, quieter, happier world for ourselves. They say that those who don't learn from history are doomed to repeat it. When I see authoritarian leaders crop up around the globe, unleashing expensive wars on humanity to satisfy their own quest for power, their own vanity, I wonder: why have we learned so little from history?
+
+Wordsworth looked at the nature around him in early spring and puzzled about the failure of humans to live in peace and harmony. Perhaps this is our lot. Perhaps we have to keep making the same mistakes, keep falling for populist leaders that drag us into bitter, expensive conflicts. But perhaps we can do better and BE better. After all, spring is the season for hope. For renewal to become reality. For beauty and sun and warmth. We have to choose hope.
+
+I hope this too shall pass, and we will soon see peace in Europe again.

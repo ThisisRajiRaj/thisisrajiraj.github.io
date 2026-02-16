@@ -1,0 +1,43 @@
+---
+layout: post
+title: Exciting news! Book 2 in the Daring to be Different series coming soon!!
+date: May 05, 2023
+---
+
+<div>
+
+As an engineer, and subsequently a leader, at Microsoft, I have always looked around to see what the world is calling me to do at any given moment. What our customers, my team, and my company need. This mindset to look for useful problems to solve, and solving them, has helped me tremendously. It has helped me grow in my career and derive satisfaction from my work. Contrary to popular advice to make clear and detailed career development plans, I have never made one in my life. At least not one that has been useful. Making meticulous long-term plans might work for some, but it has not been how I have navigated my career.
+
+In my career, I have always followed my curiosity, my heart, and what the world is asking me to do at any given moment.
+
+After the release of my last book [](https://www.amazon.com/Daring-Different-Stories-Woman-Leader-ebook/dp/B0BNKNWPY8%3E)"Daring to be Different: Stories and Tips from a Woman Leader in Tech", when organizations and individuals asked me to share the skills I explored in the book, I started thinking of a way I could tailor the material and make it more hands-on. I realized that the world was calling me to do exactly that as the next step after my book. In my original book, I shared my career journey and the lessons I had picked up along the way. I had woven candid stories from my personal and professional life with the insights they gave me. I realized that, in order to teach these skills in a more focused and actionable way, a workshop format where the audiences can work on their own career plans would be most helpful.
+
+That's how the idea for this upcoming book - book \#2 in the "Daring to be Different" series - came to me.
+
+  
+
+<figure>
+<img src="https://thisisrajiraj.github.io/posts/images/newbookcoming.jpg" style="max-width: 100%;max-height: 100%;" />
+</figure>
+
+  
+
+My second book in the "Daring to be Different" series is all about YOU the reader. While the original book offered the skills I consider essential as subtext in the stories I share, this new book names these skills one by one. It also offers a way for you to reflect on your dreams, situations, goals, and obstacles, and create a personal plan that is tailored to help you in your own journey. You get to answer carefully crafted questions and know more about yourself: what your strengths are and how you can create a system to develop your areas of growth.
+
+  
+
+<div align="center" style="border-style:double;border-color:black;padding:10px">
+
+> *"This short book is a gem. Raji has distilled eight skills out of her life and career experiences that really resonated with me as I think through my life. The exercises and questions she has posed to the reader for reflection are excellent. I really enjoyed going through the book, and I am positive if you put in the work and reflect, then you will find a lot of value and discover yourself, and what makes you tick and what is holding you back. This is definitely a book that can go on my shelf as a reference book that I can keep coming back and get something new out of every time I reflect with a current challenge."*
+>
+> *"As someone who is immensely career focused, it has opened my eyes to how and what I need to do to pursue my passion with courage and determination. If you actually put in the work during each lesson of the workbook, it will not only motivate you to be the best version of yourself but you will start believing it."*
+
+</div>
+
+  
+
+I have designed this book to be a fun, memorable, and a meditative experience. I would love for my readers to take the time to invest in themselves - not once but going back to the book repeatedly and as often as needed. My hope is that you find the book helpful in teaching you a bit more about yourself and how you can use your strengths to catapult you in your career.
+
+I am hosting an online workshop on May 19th where you will get early access to this upcoming book. Register [here](https://daringworkshop.eventbrite.com/?aff=website) to attend this workshop. It is currently offered to a very small group, so let me know if you need a place. I want to make sure my regular subscribers have a chance to get in!
+
+</div>

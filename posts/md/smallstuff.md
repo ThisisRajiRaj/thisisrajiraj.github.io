@@ -1,0 +1,35 @@
+---
+layout: post
+title: Zoom out
+date: March 09, 2022
+---
+
+Every day dawns differently. Some days, as I sit on my meditation cushion and start paying attention to the thoughts buzzing in my head, I realize that my body and mind are both restless. Other days, I feel a sense of calm and ease, my mind feeling light as air.
+
+Today I woke up edgy.
+
+I could sense that right off the bat during my meditation session. And I could confirm it, with certainty, once I came into the kitchen and saw my partner having made a rookie mistake in loading the dishwasher.
+
+I had turned on the dishwasher last night. What awaited him this morning, as he came in to make his coffee, was a load of clean dishes smelling of our lemon-scented detergent. However, he had not realized the dishes were clean. As he was making himself coffee, he had dutifully rinsed and loaded the dirty dishes in the sink into it, mixing up our clean and unclean dishes.
+
+It rankled me, beyond proportion for some reason, as soon as I noticed the mistake. We got into a bit of a kerfuffle. Why didn't he pay more attention? We can't possibly just take out the unclean dishes now and put away the rest! Why didn't he ask me first?!
+
+All the gains of mental composure gained from this morning's meditation were gone in an instant. I was properly and fully annoyed, feeling my day had started on a bad note.
+
+Then I made myself some coffee and sat down on my brown, oversized recliner, a warm blanket thrown around my legs. I took a few deep breaths. As I began to feel the warmth of the coffee down my throat, I started reflecting. What was that altercation all about? Sure, we had a mix-up in the kitchen. Maybe we have to rewash all the dishes, maybe we will be ok even if we just fished out the unclean dishes and filed the rest away. Why do we let such small annoyances get to us so much?
+
+If I zoomed out, I could see that there was so much that was going right in our lives at that very moment. So much that I had been given that I can be grateful for.
+
+… I have a home to shelter me
+
+… I have a body that allows me to do the things I want to do
+
+… I have a mind that has helped me earn a living
+
+… I have food in the fridge and more food I could buy without a single concern for money. Heck, I have a fridge and a dishwasher to become irked about
+
+… I have love in my life. People have given me the care since childhood that helped me gain stability in life
+
+I have enough, and by many objective standards, more than "enough". When we zoom out and look at ourselves - at the larger things we have and at the longer trajectory of our life - everyday pet peeves and irritations diminish in size. Life is ok, even good, regardless of what is bothering you right now. Because like most thoughts I encounter in my head during my meditation, like clouds on a stormy sky, everything shifts and passes. You move on, circumstances change, and in a few days, you will hardly remember the thing that rankled you so much just now.
+
+So next time your find yourself in a rush of emotions, feeling like every little thing is bothering you, take a breath and zoom out. It helps.

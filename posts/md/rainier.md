@@ -1,0 +1,72 @@
+---
+layout: post
+title: Best laid plans at Mount Rainier National Park
+date: July 22, 2022
+---
+
+The best laid plans of mice and men, and such…there are situations in life when you plan and plan, and when the time nears, you realize things are not what you thought they would be. In fact, most situations in life are like that. Some recent examples from my own personal and professional life:
+
+1.  I had planned for a series of important meetings with my manager only to have my manager announce that he was retiring.
+2.  I had planned to travel to see my family in India in 2020 only to have a global pandemic stop me from visiting them for more than two years.
+3.  I had planned out a detailed workout program that ramped up every week in preparation for a long backpacking trip later this year. I got sick and couldn't work out for many days and the program had to be rethought.
+4.  In the beginning of this year, I had booked a trip to Mount Rainier National park, assuming that mid-July would be a good time to travel and hike. Sadly, this year turned out to be unduly rainy and snowy. The only road through the park remained closed. A lot of the trails in the park were still covered in snow, and we were disappointed that we couldn't hike in some of the most spellbinding areas.
+
+The future is always unknown and amorphous. While I am not a person that could ever stop planning or do most things without some preparation, I also am a big fan of quickly adapting to things as they come. Ducking and diving and veering to adjust. In Mount Rainier National Park this month, we were disappointed as we arrived to find roads closed and many trails snowed out. But we decided to make the best of our time there and do some of the lower elevation trails and trudge on snow for as long as we could on higher elevations.
+
+  
+
+<div class="container" align="center">
+
+<div class="row col-md-6 mx-auto">
+
+<div class="videoWrapperOuter">
+
+<div class="video-responsive" align="center">
+
+</div>
+
+</div>
+
+</div>
+
+<div class="row col-md-6 mx-auto">
+
+<div align="center">
+
+<span class="small">Video from our trip to the Mount Rainier National Park</span>
+
+</div>
+
+</div>
+
+</div>
+
+  
+
+On the evening we arrived, we walked along the snowy and high Deadhorse Creek Trail to Glacier Vista Point, and back down along the Skyline trail. This was by far the most amount of snow walking I had done in my life. I huffed and puffed my way up. I found myself slipping occasionally on my way down. I learned how to dig in with my heels first to create some traction along the path. It was thrilling and hairy at once, but a refreshing trek.
+
+  
+
+<figure>
+<img src="https://thisisrajiraj.github.io/posts/images/moonrise.jpg" style="max-width: 70%;max-height: 70%;" />
+<figcaption><span class="small">Moonrise along the road to Paradise Inn</span></figcaption>
+</figure>
+
+  
+
+We bundled up for an evening outside as we ventured out to stargaze. The cloudless and star-speckled sky was a treat to behold. We drove to Reflection Lake where the mountain cast a still image on the water and the sky was free of pollution from any ambient light. I took a number of pictures of the inky starlit sky. We watched the light from a climber's headlamp move briskly down a cliff on Mount Rainier. We listened as the stillness in the area was disturbed by the occasional human voices and the few cars on the road.
+
+The next day we walked to Comet Falls along a rocky and rootsy trail. The trail was a steep climb all the way to a creek where the bridge had been washed out. We had to hopscotch along rocks and balance on fallen logs to cross the creek on our way to the falls. In the afternoon, we walked along another trail - a peaceful, shaded one - to Rampart Ridge. When you hike along the Rampart Ridge, you walk through a forest, then you round a bend, and voila - you are greeted with a most spectacular view of Mount Rainier. You then descend along another beautifully wooded path called the Wonderland trail. This trail goes on for over 90 miles around the park and we walked various sections of it that weekend.
+
+  
+
+<figure>
+<img src="https://thisisrajiraj.github.io/posts/images/comet.jpg" style="max-width: 70%;max-height: 70%;" />
+<figcaption><span class="small">Comet Falls</span></figcaption>
+</figure>
+
+  
+
+On the last day, we walked to yet another series of waterfalls - Carter falls, Madcap falls, and Narada falls. Mount Rainier National park is full of babbling waterfalls and thick forests. Our walk that day was over 11 miles with some flat sections and some steep uphill sections. We ended the hike and our trip with sore legs, sweaty feet, and tired shoulders - but with full and delighted hearts.
+
+It was great to spend three days in the Mount Rainier National park, wandering in nature, and trying to live a more simple life. The weekend didn't go exactly as planned, but then most things in life don't. I was happy about our ability to be nimble and adapt and make it a positive experience. If you go on your own adventure in the woods, do plan, but be open to changing your plans. It is not your ability to plan that determines your success with something, it is how you react and adapt when things don't go according to plan. This is true in adventure, true in work, and true in life.

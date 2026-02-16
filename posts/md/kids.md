@@ -1,0 +1,37 @@
+---
+layout: post
+title: White spaces at the edge of print
+date: Jun 27, 2022
+---
+
+I have disappointed my family in many things. But the biggest disappointment has been the fact that I have chosen to not have children. And possibly, no one has been more disappointed by it than my dad.
+
+Many of you know that I love my dad to bits. He made many sacrifices for us. He raised us - me and my brother - as a single parent, against many odds. He worked day and night to give us the best education he could afford. He taught me many life lessons that I cherish to this day - how to not be prideful, how to learn constantly and strive to become better, how to go after things with determination, and so much more.
+
+My father's happiness means a lot to me. And I know that he sorely wanted me to have kids. He worried that, without kids to anchor us, we would become listless. To him, being happy involved having a purpose in life, and that purpose could only be served by having children.
+
+But that was *his* template for a happy life, not mine. So, as much as I love him and I know I have disappointed him, I am fine with it. I believe that anyone who lives in the free world should be able to choose how they want to lead their life. Life, liberty, and the pursuit of happiness are enshrined in many cultures and codified into the constitution in some.
+
+The choice to not have kids, more than anything else, has defined what I want to do with my life. Purposeful life is not just about raising good children and having a thriving family. It is about living a life that brings you joy. That joy comes to me from many things - from traveling, from hiking in the woods, from listening to my heartbeat, from being still, from learning new skills, from reading, and from working with non-profits to do some little good in the world.
+
+Children bring a lot of joy to many people. I myself have adored my nephews, especially when they were tiny tots that prattled and played and cooed. I have admired the process by which their intellect grew, year after year. I have been been impressed every year by something new they had learned or could do. I have enjoyed seeing them grow into caring, loving, and responsible young men. I still treasure my time with them. But I have chosen to not have kids of my own. It simply didn't appeal to me, even after many years of reflecting and discussing with my partner.
+
+I know many countries in the world where economic power and the ability to have a career are taken away from women because they cannot control and choose what happens to their bodies. Many women become unintentionally saddled with too many children to feed and clothe and take care of. They become powerless against 'fate'.
+
+  
+
+<div align="left" style="border-style:double;border-color:black;padding:10px">
+
+> "We were the people who were not in the papers. We lived in the blank white spaces at the edge of print."
+>
+> \- *The Handmaid's Tale*, Margeret Atwood
+
+</div>
+
+  
+
+Around the globe, most women were once treated like infants. They couldn't own property, couldn't choose their partners, couldn't dream to pursue anything other a handful of professions, didn't have a say in the laws being made for their country. We have come so far in the fight for equality. Today women are CEOs and politicians and inventors and philanthropists.
+
+It is inspiring to see three women among the nine justices in the US Supreme Court today. But when the same Supreme Court takes away a crucial right from many young women, it is far from inspiring. It is disappointing. By taking away the right to choose when to have children and how many to have - including none at all - we regress to the belief that women cannot be trusted to make decisions about their own lives and their own bodies. We give credence to a theory that there is only one valid script for life. We rob the power from many women to lead a life of their choosing. We take away economic might and the potential for it from a section of the population. We once again start to infantalize women.
+
+Is this the society we want to be?

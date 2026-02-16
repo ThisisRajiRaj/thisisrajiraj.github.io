@@ -1,0 +1,78 @@
+---
+layout: post
+title: And she lived happily ever after
+date: March 19, 2022
+---
+
+<div align="left" style="border-style:double;border-color:black;padding:10px">
+
+> "I surely would not be in this room today — without the determined efforts of men and women who kept dreams of equal citizenship alive in days when few would listen. People like Susan B. Anthony, Elizabeth Cady Stanton, and Harriet Tubman come to mind. I stand on the shoulders of those brave people."
+>
+> \- Justice Ruth Bader Ginsburg
+
+</div>
+
+  
+
+My brother, in the thick of an argument, once remarked that I have had a "fairy tale" life. You see, my brother and I inhabited the same house for fewer than a couple of years when we were growing up. He lived with my dad and I lived with various relatives at different times. We hardly knew each other. Though I love him as my flesh and blood, he is 180 degrees from me politically and philosophically.
+
+My brother is a smart man. He is right in thinking that my life appears to be a fairy tale. A girl is born into a middle-class family. Her father dotes on her, calls her the apple of his eye, the sinews of his heart. She does well academically. She is encouraged by all around her to study more, praised for her scholarly aptitude. Her Prince Charming arrives one day and whisks her off to a fine country. She gets more educated, gets hired by a top software company. She progresses in her career and becomes successful.
+
+Yes, in fact, it is a sweet story. And I am very thankful for the privileges and opportunities I have had in my life that have enabled such a story. I was born to a man that believed in higher education for girls, not just boys. I was born in an era when girls could go to school, not get married off at eight like my grandmothers. I belonged to a family with generations of grounding in academics and adequate cash reserves. Even though I lost my mother before I knew who I was, I had people around me with a sense of duty to take care of a motherless child in their family. I married a man that believes in equality, that supports me endlessly in my various pursuits.
+
+Thanks to the civil rights movement of the sixties, I could emigrate to a country where I could access more opportunities. Even as an immigrant, an outsider, I could still make something of myself, feel free enough and brave enough to try on new identities. I chanced upon an opportunity at Microsoft, where I have worked with some wonderful men and women, and that has gone on to enrich my life in so many ways. I have chosen not to have children, a choice that would not have been available to many women before my generation. I have found the time for travels and side interests that have made my life colorful beyond my imagination.
+
+My mother couldn't have dreamed of such a trajectory in her own life. The architecture of opportunities in her lifetime was limited for someone of her class and gender. I was born in the late seventies. Women of my generation, both in India and in the United States, have seen an ascendancy of choices. We have been able to get educated, have careers, become executives, choose when to have children and how many to have, be equal partners in our marriages, be bold and ambitious with our lives and work. So yes, it is a fairy tale of sorts. I understand that's what is most visible, what's most on the surface.
+
+  
+
+<div class="container">
+
+<div class="row">
+
+<div class="col-md-6">
+
+<div class="thumbnail">
+
+<img src="https://thisisrajiraj.github.io/posts/images/rbg.jpg" style="width:100%" alt="Justice RBG" />
+
+</div>
+
+</div>
+
+<div class="col-md-6">
+
+<div class="thumbnail">
+
+<img src="https://thisisrajiraj.github.io/posts/images/goodall.jpg" style="width:100%" alt="Jane Goodall" />
+
+</div>
+
+</div>
+
+</div>
+
+<div align="center">
+
+<span class="small">Two of the women I am inspired by, Justice Ruth Bader Ginsburg and Dame Jane Goodall</span>
+
+</div>
+
+</div>
+
+  
+
+But here is what is not so visible. Here are a few things that have happened in my life, as a girl growing up in the eighties and nineties, and as a woman ever since. Things that, had I been of a different class, color, gender, place of birth, arguably I might not have had to face.
+
+1.  When I was growing up, almost every day on my way to and from school, boys and men heckled me in my neighborhood. Sometimes I have wondered at the objective of this catcalling. Did these men seriously think they could attract a girl/woman by mouthing prurient comments at her? Some of these boys felt bold enough to not just stop at heckling. They exposed themselves, groped girls, assaulted us when no one was around. I had always felt ashamed when something like this happened, though in hindsight, it should have been these boys that should have been ashamed of their behavior.
+2.  I was told many times, in multiple households, to "stop with the studies and come help in the kitchen" instead. The men in my family, including my brother, could leave their dirty dinner plates on the table and walk away to their study rooms. The womenfolk of the house, including me, were expected to clean up.
+3.  One of my colleagues in engineering college told me that I should not apply for a job at the campus interviews since I would be taking away a man's job and that man needed the job more. Mind you, this interaction happened in 1998, not in 1898, and the person who told me this was an educated free-thinking man of the nineties.
+4.  Later in life, in corporate America, a male colleague once advised me to dress in skirts and wear makeup so I would look more feminine. Faded jeans and baggy shirts were ok for my male coworkers, but somehow not adequate for me. When I did end up on a stage for a keynote, the man I co-presented with had his "stage makeup" done in five minutes by the makeup crew, while mine took close to an hour. It appeared to me that, as a woman, it's not just what I said that mattered, but also how I looked when I said it.
+5.  Regardless of where I am in my professional life, at home, my family still thinks of me as the default cook and caretaker. If we have a family gathering, e.g., the women in the house are expected to take charge of the meals and the coffee. Cooking and cleaning are not for the men of the family. My husband often gets hustled out of the kitchen if he comes in to help. He is not supposed to do "woman's work".
+6.  My father, who has always had high expectations for me and who has always encouraged me in excelling at whatever I do, told me once that I should have a career only if my husband allowed it. He wanted me to get married as soon as I left college so I would be "protected" when I moved to America to study further. I understand the protective instinct he had - refer back to the comment on the neighborhood catcalling and the groping. It was scary to be an "unprotected girl". My brother and male cousins, on the other hand, could safely stay single and focus on their work well into their post-docs before getting hitched.
+7.  I have walked into corporate meeting rooms where I have been told that I was not "senior enough" to attend when I had actually been the most senior person in that group. I have been in international meetings where every question I asked was met with an answer directed at a male member of my delegation. It was almost as if I didn't exist in those rooms!
+8.  While I am fortunate to work for a company that truly wants to make tech a vibrant and diverse workplace, many conference rooms are still filled with men that don't speak like me, look like me, or are from backgrounds like mine. I work hard to keep the feeling of not belonging at bay. I work hard to get things done, often dancing a delicate dance between being assertive while not being labeled aggressive, being results-driven while not being perceived as impatient. I work hard to get my voice heard and amplify the voices of minorities like me.
+
+In many of the households that I lived in as a girl, we struggled with money. We were never poor, but never affluent. We could buy bananas but apples were a luxury. Second helpings were discouraged. On top of that, I was a girl that was always seen as one slightly less deserving of things compared to the boys and the men of the house. Despite all this, I got enough breaks in my life for upward mobility to be possible. But I know that's not the case for every young woman or girl around the globe. Don't get me wrong. The progress we have made through generations in addressing various indignities and inequalities - based on gender, class, race, accent, place of birth and so on - has indeed been inspiring. But, no, it is not a fairy tale just yet. There are everyday struggles, aggressions, and inequities a number of us face constantly to this day. There is still more work to do before we can live happily ever after.
+
+I hope that every year brings more progress, and most importantly, does not take us back on the path we have come so far on. Happy Women's History Month.

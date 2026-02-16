@@ -1,0 +1,60 @@
+---
+layout: post
+title: The very human capacity to support and empower each other
+date: January 16, 2023
+---
+
+When I was 23 years old, having left India and starting to build a life of my own, I was drunk on the importance of my own independence.
+
+Personal freedom was a value I cherished. I wanted to rely on myself, always. I wanted other people to do the same.
+
+However, I have realized over the rest of my 20+ years on earth how wrong I had been. I have realized, over the course of my life and work, that other people matter. Community matters. Building relationships, indeed, matters.
+
+Relationships, of course, have been essential in times of sickness, pain, and grief. When I grieved an aunt who died early, it was my family’s warmth that got me past it. When I burst into tears at the 17<sup>th</sup> mile of a training run for my marathon, it was my partner’s love and energy that kept me moving.
+
+But relationships are not just for times of need, but also for times of joy and plenty. They are needed for work as much as in personal life. Building strong rapport with your coworkers makes your work more pleasant and easier. People make life more interesting, more meaningful.
+
+Let me tell you why I am going on and on about this today.
+
+I published my debut book [“Daring to be Different”](https://www.rajiraj.com/daring) in Dec 2022. My act of publication was a natural extension of my mentoring and my blogging. I had previously shared my stories and perspectives with my mentees and blog readers. What I said and wrote resonated with people. Folks found my words useful in their own lives. So, I decided to publish more of them in a book. I didn’t plan or aim for it to become one of the top 20 bestsellers among Business Leadership training books in Amazon. In fact, I didn't think it would actually be read by more than a small clique of people.
+
+  
+
+<figure>
+<img src="https://thisisrajiraj.github.io/posts/images/community.jpg" style="max-width: 100%;max-height: 100%;" />
+<figcaption><span class="small"></span>
+<p>If you are in the Greater Seattle area and want a signed copy, come to one of the two upcoming signing events on <a href="https://www.eventbrite.com/e/book-launch-signing-for-daring-to-be-different-with-raji-rajagopalan-tickets-516211260777">Feb 18 at Side Hustle Taproom in Kirkland</a> and on <a href="https://fb.me/e/67NF7krqU">March 16 at Ada's Technical Books and Cafe in Seattle</a>. I will have books and sign your copies.</p>
+<p>If you are not in the Seattle area and would like a signed copy, send me a note via the <a href="/contact">Contact form</a> and I'll send you the details.</p></figcaption>
+</figure>
+
+  
+
+But thanks to the community I had organically built over the years at Microsoft and online, there came an outpouring of support as soon as I announced it. A VP at my company, whom I admire and respect, bought it for himself and all his staff. He invited me to speak to his team and championed the topic and the book with everyone.
+
+A mentee not only read the book, but also shared it with all his acquaintances. He started thinking and scheming my next promotional activities for me.
+
+Someone who works with me, and is quite savvy with social media, offered to do social posts to spread the word.
+
+Some people wrote reviews. Some people tweeted. Some wrote me personal messages to tell me how much they appreciated the stories and the advice in the book. A dear, dear friend sat with me and made me think of 50 more ideas to work on related to it. She is now planning my very first book launch party for me.
+
+  
+
+<div align="center" style="border-style:double;border-color:black;padding:10px">
+
+> The human capacity to support and empower each other is staggering.
+
+</div>
+
+  
+
+I understand that people might buy my book because the content in it is timely and useful. Because I have credibility in the industry and people want to see what I have to say. But what I feel moved by is how many of the people have gone above and beyond simply buying the book and reading it.
+
+I feel blown away by the support and the love. I didn’t hire a launch team. I didn’t ask any of them to do it before they volunteered. The people that came to my side are all people that I have known and worked with over the years.
+
+The human capacity to support and empower each other is staggering. While many of these humans that surrounded me with so much love are Microsofties – for whom “empowering others to achieve more” is indeed a mission – I have seen this wonderful capacity in many others around me too.
+
+I may have gained some success in my career in the traditional ways of looking at success. I have shared my experience and perspectives on this in my book. But truly what I count as success is the fellowship I seem to have organically gathered around me. Taking the time to build that rapport, that connection, to impact someone else positively without really expecting anything in return, indeed comes back to you in ways you never anticipated.
+
+Freedom and independence are still values I cherish. But I also now cherish community and connecting with people as values of equal importance. They truly bring meaning to your life, and they bring you joy when you least expect it.
+
+To learn more about my book go [here](http://www.rajiraj.com/daring).
