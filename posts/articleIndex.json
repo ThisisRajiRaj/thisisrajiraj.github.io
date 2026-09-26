@@ -1,5 +1,12 @@
 [
     {
+        "date": "Sep 26, 2026",
+        "name": "CWWHW",      
+        "image": "images/CWHWHW.jpg",      
+        "title": "Prepare. Then Adapt", 
+        "categories": ["lifelessons","travel", "photography"]
+    },
+    {
         "date": "Oct 04, 2025",
         "name": "juliana",      
         "image": "images/juliana.jpg",      
